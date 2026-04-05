@@ -10,12 +10,14 @@ async function collectAndPush() {
     console.error('git pull 失败:', err instanceof Error ? err.message : err);
   }
 
-  await collect();
+  const success = await collect();
 
-  try {
-    pushResult();
-  } catch (err) {
-    console.error('git push 失败:', err instanceof Error ? err.message : err);
+  if (success) {
+    try {
+      pushResult();
+    } catch (err) {
+      console.error('git push 失败:', err instanceof Error ? err.message : err);
+    }
   }
 }
 

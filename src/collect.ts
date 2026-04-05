@@ -2,6 +2,7 @@ import 'dotenv/config';
 import { writeFile, mkdir } from 'fs/promises';
 import { existsSync } from 'fs';
 import { join } from 'path';
+import { CollectorResult } from './types';
 import * as ai from './collectors/ai';
 import * as investment from './collectors/investment';
 
@@ -16,7 +17,7 @@ export function getDateStr(): string {
   return `${y}${m}${d}`;
 }
 
-function mergeResults(results: { name: string; data?: unknown; error?: string }[]) {
+function mergeResults(results: CollectorResult[]) {
   let merged: Record<string, unknown> = {};
   for (const r of results) {
     if (r.error) {
@@ -30,7 +31,7 @@ function mergeResults(results: { name: string; data?: unknown; error?: string }[
   return merged;
 }
 
-export async function collect() {
+export async function collect(): Promise<boolean> {
   console.log(`[${new Date().toISOString()}] 开始收集...`);
 
   const [aiResults, investmentResults] = await Promise.all([
@@ -38,8 +39,14 @@ export async function collect() {
     investment.runAll(),
   ]);
 
+  const hasError = [...aiResults, ...investmentResults].some((r) => r.error);
+  if (hasError) {
+    console.error('收集仍有失败项，跳过本次写入和提交');
+    return false;
+  }
+
   const result = {
-    ai: mergeResults(aiResults),
+    ai: ai.mergeAIResults(aiResults),
     investment: mergeResults(investmentResults),
   };
 
@@ -50,15 +57,16 @@ export async function collect() {
   await writeFile(filePath, JSON.stringify(result, null, 2));
   console.log(`已写入 ${filePath}`);
   console.log(`[${new Date().toISOString()}] 收集完成`);
+  return true;
 }
 
-// 直接运行时执行收集并推送
-const isDirectRun = process.argv[1]?.includes('collect');
+// 直接运行 collect.ts 时执行收集并推送
+const isDirectRun = process.argv[1]?.endsWith('collect.ts');
 if (isDirectRun) {
   (async () => {
     const { pullLatest, pushResult } = await import('./git');
     pullLatest();
-    await collect();
-    pushResult();
+    const success = await collect();
+    if (success) pushResult();
   })();
 }
