@@ -1,6 +1,9 @@
 # egg-basket
 
-定时收集信息，包括 AI 和投资两大部分。每天北京时间早上 8 点执行，结果写入 `result/YYYYMMDD.json`。
+定时收集信息，包括 AI 和投资两大部分。每天北京时间早上 8 点执行，结果分别写入：
+
+- `result/ai-resultYYYYMMDD.json` — AI 相关
+- `result/invest-resultYYYYMMDD.json` — 投资相关
 
 ## 数据来源
 
@@ -25,5 +28,6 @@
 
 ```bash
 pnpm install
-pnpm start
+pnpm start       # 启动定时任务，每天北京时间 8 点自动收集并 push
+pnpm collect     # 手动执行一次收集并 push
 ```
