@@ -39,25 +39,27 @@ export async function collect(): Promise<boolean> {
     investment.runAll(),
   ]);
 
-  const hasError = [...aiResults, ...investmentResults].some((r) => r.error);
-  if (hasError) {
-    console.error('收集仍有失败项，跳过本次写入和提交');
-    return false;
-  }
-
-  const result = {
-    ai: ai.mergeAIResults(aiResults),
-    investment: mergeResults(investmentResults),
-  };
-
   if (!existsSync(RESULT_DIR)) {
     await mkdir(RESULT_DIR, { recursive: true });
   }
-  const filePath = join(RESULT_DIR, `${getDateStr()}.json`);
-  await writeFile(filePath, JSON.stringify(result, null, 2));
-  console.log(`已写入 ${filePath}`);
+
+  const dateStr = getDateStr();
+  const aiPath = join(RESULT_DIR, `ai-result${dateStr}.json`);
+  const investPath = join(RESULT_DIR, `invest-result${dateStr}.json`);
+
+  await Promise.all([
+    writeFile(aiPath, JSON.stringify(ai.mergeAIResults(aiResults), null, 2)),
+    writeFile(investPath, JSON.stringify(mergeResults(investmentResults), null, 2)),
+  ]);
+  console.log(`已写入 ${aiPath}`);
+  console.log(`已写入 ${investPath}`);
+
+  const hasError = [...aiResults, ...investmentResults].some((r) => r.error);
+  if (hasError) {
+    console.error('部分收集器失败，跳过 git 提交');
+  }
   console.log(`[${new Date().toISOString()}] 收集完成`);
-  return true;
+  return !hasError;
 }
 
 // 直接运行 collect.ts 时执行收集并推送
