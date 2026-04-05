@@ -5,11 +5,12 @@ import yageAI from './yage-ai';
 import googleAI from './google-ai';
 import deepmind from './deepmind';
 import baoyu from './baoyu';
+import tldrAI from './tldr-ai';
 
 // follow-builders 提供基础的 x、podcasts、blogs
 // 其他 blog 收集器的结果会合并到 blogs 中
 const baseCollector = followBuilders;
-const blogCollectors: Collector[] = [openaiNews, yageAI, googleAI, deepmind, baoyu];
+const blogCollectors: Collector[] = [openaiNews, yageAI, googleAI, deepmind, baoyu, tldrAI];
 
 async function safeRun(collector: Collector): Promise<CollectorResult> {
   try {

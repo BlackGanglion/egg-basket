@@ -5,6 +5,7 @@
   "main": "src/index.ts",
   "scripts": {
     "start": "tsx src/index.ts",
+    "run": "tsx src/collect.ts",
     "build": "tsc",
     "typecheck": "tsc --noEmit"
   },
