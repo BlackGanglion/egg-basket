@@ -1,9 +1,15 @@
 import 'dotenv/config';
 import cron from 'node-cron';
 import { collect } from './collect';
-import { pushResult } from './git';
+import { pullLatest, pushResult } from './git';
 
 async function collectAndPush() {
+  try {
+    pullLatest();
+  } catch (err) {
+    console.error('git pull 失败:', err instanceof Error ? err.message : err);
+  }
+
   await collect();
 
   try {

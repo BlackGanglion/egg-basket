@@ -55,8 +55,10 @@ export async function collect() {
 // 直接运行时执行收集并推送
 const isDirectRun = process.argv[1]?.includes('collect');
 if (isDirectRun) {
-  collect().then(async () => {
-    const { pushResult } = await import('./git');
+  (async () => {
+    const { pullLatest, pushResult } = await import('./git');
+    pullLatest();
+    await collect();
     pushResult();
-  });
+  })();
 }

@@ -1,6 +1,11 @@
 import { execSync } from 'child_process';
 import { getDateStr } from './collect';
 
+export function pullLatest() {
+  execSync('git pull origin main', { stdio: 'inherit' });
+  console.log('已拉取 main 最新代码');
+}
+
 export function pushResult() {
   execSync('git add result/', { stdio: 'inherit' });
   const status = execSync('git diff --cached --quiet || echo changed', { encoding: 'utf-8' }).trim();
