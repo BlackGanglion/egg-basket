@@ -1,22 +1,13 @@
 import 'dotenv/config';
-import { execSync } from 'child_process';
 import cron from 'node-cron';
-import { collect, getDateStr } from './collect';
+import { collect } from './collect';
+import { pushResult } from './git';
 
 async function collectAndPush() {
   await collect();
 
   try {
-    execSync('git add result/', { stdio: 'inherit' });
-    const status = execSync('git diff --cached --quiet || echo changed', { encoding: 'utf-8' }).trim();
-    if (status === 'changed') {
-      const dateStr = getDateStr();
-      execSync(`git commit -m "chore: add result ${dateStr}"`, { stdio: 'inherit' });
-      execSync('git push origin main', { stdio: 'inherit' });
-      console.log('已推送到 main 分支');
-    } else {
-      console.log('result 无变更，跳过提交');
-    }
+    pushResult();
   } catch (err) {
     console.error('git push 失败:', err instanceof Error ? err.message : err);
   }

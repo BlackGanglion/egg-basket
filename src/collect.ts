@@ -52,8 +52,11 @@ export async function collect() {
   console.log(`[${new Date().toISOString()}] 收集完成`);
 }
 
-// 直接运行时执行收集
+// 直接运行时执行收集并推送
 const isDirectRun = process.argv[1]?.includes('collect');
 if (isDirectRun) {
-  collect();
+  collect().then(async () => {
+    const { pushResult } = await import('./git');
+    pushResult();
+  });
 }
