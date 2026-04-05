@@ -19,8 +19,8 @@ async function collectAndPush() {
   }
 }
 
-// 每天北京时间早上 8 点执行 (UTC 0:00)
-cron.schedule('0 0 * * *', collectAndPush);
+// 每天北京时间早上 8 点执行
+cron.schedule('0 8 * * *', collectAndPush, { timezone: 'Asia/Shanghai' });
 
 console.log('egg-basket 已启动，等待定时任务执行...');
 
