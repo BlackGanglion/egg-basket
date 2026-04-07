@@ -1,7 +1,9 @@
 import { Collector, BlogItem } from '../../types';
+import { hasState, getSeenUrls, markSeen } from '../../infra/state';
 
 const YAGE_ATOM_URL = 'https://yage.ai/feeds/atom.xml';
-const LOOKBACK_HOURS = 24;
+const FALLBACK_HOURS = 24;
+const COLLECTOR_NAME = 'yage-ai';
 
 function stripHtml(html: string): string {
   return html
@@ -15,15 +17,20 @@ function stripHtml(html: string): string {
 }
 
 const yageAI: Collector = {
-  name: 'yage-ai',
+  name: COLLECTOR_NAME,
 
   async run(): Promise<BlogItem[]> {
     const res = await fetch(YAGE_ATOM_URL);
     if (!res.ok) throw new Error(`HTTP ${res.status} from ${YAGE_ATOM_URL}`);
     const xml = await res.text();
 
+    const seen = getSeenUrls(COLLECTOR_NAME);
+    const hasLocalState = hasState(COLLECTOR_NAME);
+    const cutoff = Date.now() - FALLBACK_HOURS * 60 * 60 * 1000;
+
     const items: BlogItem[] = [];
-    const cutoff = Date.now() - LOOKBACK_HOURS * 60 * 60 * 1000;
+    const allUrls: string[] = [];
+    const newUrls: string[] = [];
     const entryRegex = /<entry>([\s\S]*?)<\/entry>/gi;
     let match;
 
@@ -38,8 +45,15 @@ const yageAI: Collector = {
         return m ? m[1] : '';
       };
 
+      const url = getAttr('link', 'href');
       const published = getTag('published');
-      if (published && new Date(published).getTime() < cutoff) continue;
+      allUrls.push(url);
+
+      if (hasLocalState) {
+        if (seen.has(url)) continue;
+      } else {
+        if (published && new Date(published).getTime() < cutoff) continue;
+      }
 
       const contentHtml = getTag('content');
       const summaryHtml = getTag('summary');
@@ -48,13 +62,16 @@ const yageAI: Collector = {
         source: 'blog',
         name: 'Yage AI',
         title: getTag('title'),
-        url: getAttr('link', 'href'),
+        url,
         publishedAt: published ? new Date(published).toISOString() : null,
         author: getTag('name'),
         description: stripHtml(summaryHtml).slice(0, 300),
         content: stripHtml(contentHtml || summaryHtml),
       });
+      newUrls.push(url);
     }
+
+    markSeen(COLLECTOR_NAME, hasLocalState ? newUrls : allUrls);
 
     return items;
   },
