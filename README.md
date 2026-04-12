@@ -18,7 +18,6 @@
 - [Google AI Blog](https://blog.google/innovation-and-ai/technology/ai/rss/) — Google AI 官方博客 RSS，通过 Jina Reader 获取文章全文
 - [Google DeepMind](https://deepmind.google/blog/rss.xml) — Google DeepMind 博客 RSS，通过 Jina Reader 获取文章全文
 - [宝玉的工程技术分享](https://s.baoyu.io/feed.xml) — 宝玉博客 RSS，通过 Jina Reader 获取文章全文
-- [TLDR AI](https://bullrich.dev/tldr-rss/ai.rss) — TLDR AI 每日摘要 RSS，通过 Jina Reader 获取原文全文
 
 ### Investment
 
