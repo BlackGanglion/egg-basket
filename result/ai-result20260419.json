@@ -1,0 +1,528 @@
+{
+  "x": [
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2045263229329580420",
+          "text": "wow and a Colossus profile from Camille!!\n\nhttps://t.co/ibt7g82IjC",
+          "createdAt": "2026-04-17T22:08:47.000Z",
+          "url": "https://x.com/swyx/status/2045263229329580420",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2045171537268052425"
+        },
+        {
+          "id": "2045202026020421951",
+          "text": "it's neck and neck lol! https://t.co/jyXCeYsrWT",
+          "createdAt": "2026-04-17T18:05:35.000Z",
+          "url": "https://x.com/swyx/status/2045202026020421951",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2045186912009458104",
+          "text": "grateful to @steipete for prompting me to start the AMA with “what’s the future of ClosedClaw”? 😈 https://t.co/4s9SkNTEsu https://t.co/nyFNO6hDZx",
+          "createdAt": "2026-04-17T17:05:32.000Z",
+          "url": "https://x.com/swyx/status/2045186912009458104",
+          "likes": 18,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2045179602797248559"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2045305262362530043",
+          "text": "Excited about this!\n\nProducerAI is now Google Flow Music\n\nSame mission: push the creative boundaries 🎹🎸\nGiving people more control over their tracks\nCheck out the new remix feature! https://t.co/di9llPiegC",
+          "createdAt": "2026-04-18T00:55:49.000Z",
+          "url": "https://x.com/joshwoodward/status/2045305262362530043",
+          "likes": 130,
+          "retweets": 9,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2045250153356108026"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Kevin Weil",
+      "handle": "kevinweil",
+      "bio": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+      "tweets": [
+        {
+          "id": "2045230426210648348",
+          "text": "Today is my last day at OpenAI, as OpenAI for Science is being decentralized into other research teams. It’s been a mind-expanding two years, from Chief Product Officer to joining the research team and starting OpenAI for Science. Accelerating science will be one of the most stunningly positive outcomes of our push to AGI, and I’m rooting for @sama @markchen90 @fidjissimo @gdb @merettm and the whole team!",
+          "createdAt": "2026-04-17T19:58:26.000Z",
+          "url": "https://x.com/kevinweil/status/2045230426210648348",
+          "likes": 3558,
+          "retweets": 107,
+          "replies": 242,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2045335553059746259",
+          "text": "Anthropic should just ship models daily too like the rest of their products - can’t wait for Opus 4.18.2026 tmr",
+          "createdAt": "2026-04-18T02:56:11.000Z",
+          "url": "https://x.com/petergyang/status/2045335553059746259",
+          "likes": 35,
+          "retweets": 0,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2045334450461192270",
+          "text": ".@steipete changed how I think about products forever (“you can get AI to do that?!”) and this is a great watch https://t.co/88LptneAa6",
+          "createdAt": "2026-04-18T02:51:48.000Z",
+          "url": "https://x.com/petergyang/status/2045334450461192270",
+          "likes": 82,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2045270351165428120"
+        },
+        {
+          "id": "2045307149740609591",
+          "text": "@AnthropicAI Having ALOT of fun with Claude Design.\n\nHere's a video I just made demoing 5 use cases including videos, slides, websites, mobile apps, and even a design system.\n\n📌 Watch now: https://t.co/vYMCY11TPx",
+          "createdAt": "2026-04-18T01:03:19.000Z",
+          "url": "https://x.com/petergyang/status/2045307149740609591",
+          "likes": 31,
+          "retweets": 3,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "tweets": [
+        {
+          "id": "2045250788864495874",
+          "text": "We’ve watched you create the impossible with @FlowbyGoogle… today, the Flow family is growing. 🚀\n\nMeet @googleflowmusic (formerly ProducerAI) - a standalone site that helps you create, share, and remix original music. Using natural language prompts, you can turn your imagination into fully produced tracks.\n\n🌊 Flow = Images & Videos\n🎵 Flow Music = Songs & Playlists",
+          "createdAt": "2026-04-17T21:19:21.000Z",
+          "url": "https://x.com/GoogleLabs/status/2045250788864495874",
+          "likes": 1204,
+          "retweets": 150,
+          "replies": 40,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2045350848985968796",
+          "text": "Excited for this https://t.co/eSkdnsRKOo",
+          "createdAt": "2026-04-18T03:56:57.000Z",
+          "url": "https://x.com/amasad/status/2045350848985968796",
+          "likes": 84,
+          "retweets": 5,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2045209697834393644"
+        },
+        {
+          "id": "2045198577941844178",
+          "text": "Animate your way to virality. https://t.co/MjifUd2nRz",
+          "createdAt": "2026-04-17T17:51:53.000Z",
+          "url": "https://x.com/amasad/status/2045198577941844178",
+          "likes": 112,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2045190738577879466"
+        },
+        {
+          "id": "2045198476385104372",
+          "text": "I’ve been really enjoying this feature. It’s specially good at anticipating minor but important improvements you can make to your app. https://t.co/XnRK0QGgXz",
+          "createdAt": "2026-04-17T17:51:29.000Z",
+          "url": "https://x.com/amasad/status/2045198476385104372",
+          "likes": 96,
+          "retweets": 2,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2045193641036239090"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Alex Albert",
+      "handle": "alexalbert__",
+      "bio": "Research @AnthropicAI. Opinions are my own!",
+      "tweets": [
+        {
+          "id": "2045165630421364853",
+          "text": "Everyone with a vision can produce very high-quality designs now (with a lil help from Claude) https://t.co/uR1cR5P2kp",
+          "createdAt": "2026-04-17T15:40:58.000Z",
+          "url": "https://x.com/alexalbert__/status/2045165630421364853",
+          "likes": 552,
+          "retweets": 14,
+          "replies": 29,
+          "isQuote": true,
+          "quotedTweetId": "2045156267690213649"
+        },
+        {
+          "id": "2045159041283064095",
+          "text": "A lot of bugs that folks may have hit yesterday when first trying Opus 4.7 are now fixed. Thanks for bearing with us🙏 https://t.co/1O3sMbI5Q9",
+          "createdAt": "2026-04-17T15:14:47.000Z",
+          "url": "https://x.com/alexalbert__/status/2045159041283064095",
+          "likes": 1139,
+          "retweets": 43,
+          "replies": 94,
+          "isQuote": true,
+          "quotedTweetId": "2045147490316374414"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2045355693050655048",
+          "text": "Software going headless is inevitable in a world where agents use the tools 100X more than people do. And the reality is for a lot of software this is actually a huge boon to potential use-cases for these platforms.\n\nSoftware business models have largely been predicated on selling to the number of seats that are in the company in a given function, and the usage of your software is constrained by how much people can do in a given day. This means that your technology is often vastly underutilized relative to what it actually can power for the customer. \n\nEnter: agents. Agents can work 24/7, run in parallel, and string together work across systems. This is a big deal because now the agent can do far more than people ever could with these tools. Instead of reviewing contracts one by one, the agent will review all of them. Instead of manually moving data between marketing systems and across campaigns, the agent will let you run 10X more of them. Instead of being rate limited in a client onboarding process by human steps, agents accelerate these.\n\nAgents end up using these underlying platforms far more than people ever did, which opens up use-cases that the platform couldn’t go after before.\n\nNow, not every software market has the same amount of positive sum use-cases between people and agents, but I’d argue that a significant portion of systems of record, for instance, can be used far more than they are today. Your Salesforce data can be leveraged 100X more to do vastly more customer targeting and sales automation. Your documents can be turned into structured data and analyzed for insights and knowledge to automate other workflows. And so on.\n\nNow, of course you have to find a way to make this all commercially attractive, but it’s not hard to picture the revenue from API and agent consumption on these platforms becoming a rich component of revenue streams over time. Seats for the people, consumption for the agents. Lots of upside here for the companies that embrace this trend.",
+          "createdAt": "2026-04-18T04:16:12.000Z",
+          "url": "https://x.com/levie/status/2045355693050655048",
+          "likes": 292,
+          "retweets": 22,
+          "replies": 24,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2045137708620906573",
+          "text": "Agents are going to use software 100X more than people will in the future. As a result, enterprise platforms will become headless and be able to work with any agent on or off platform. If you don’t do that you’re DOA.\n\nWhat some have missed is that this creates vastly more use-cases for these platforms than even existed pre-AI. This isn’t zero sum. Software value props have traditionally been capped at the number of users you have in a company. Agents have no upper limit. \n\nWe’re going to run agents to process data at a scale humans never could, they’re going to be running 24/7 in parallel doing work for us, and they can integrate workflows across systems to generate all new value propositions.\n\nOnce you embrace this approach, it becomes obvious how much more upside there is.",
+          "createdAt": "2026-04-17T13:50:01.000Z",
+          "url": "https://x.com/levie/status/2045137708620906573",
+          "likes": 1576,
+          "retweets": 161,
+          "replies": 123,
+          "isQuote": true,
+          "quotedTweetId": "2044981547267395620"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "tweets": [
+        {
+          "id": "2045336089867825157",
+          "text": "best agent = best harness + best models + runs anywhere\n\n@cursor_ai https://t.co/Iem58nqnVE",
+          "createdAt": "2026-04-18T02:58:18.000Z",
+          "url": "https://x.com/ryolu_/status/2045336089867825157",
+          "likes": 107,
+          "retweets": 5,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2045238206862356561"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Garry Tan",
+      "handle": "garrytan",
+      "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engineer who helps founders—SF Dem accelerating the boom loop",
+      "tweets": [
+        {
+          "id": "2045378112846983496",
+          "text": "I guess OpenClaw is like the Ferrari, and Hermes Agent might be... like the Honda Accord. 👀",
+          "createdAt": "2026-04-18T05:45:18.000Z",
+          "url": "https://x.com/garrytan/status/2045378112846983496",
+          "likes": 43,
+          "retweets": 2,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2045373889044472259",
+          "text": "Literally can count the hours I have lost as OpenClaw decides to do brain surgery on itself and then ends up dying from an edit it did to its own config",
+          "createdAt": "2026-04-18T05:28:31.000Z",
+          "url": "https://x.com/garrytan/status/2045373889044472259",
+          "likes": 211,
+          "retweets": 4,
+          "replies": 61,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2045372015213978106",
+          "text": "https://t.co/K2Sx8Cb4tz",
+          "createdAt": "2026-04-18T05:21:04.000Z",
+          "url": "https://x.com/garrytan/status/2045372015213978106",
+          "likes": 19,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2042925773300908103"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2045211226272129274",
+          "text": "Anthropic Labs on a generational run: Claude Code, Skills, Claude Cowork, Claude Design",
+          "createdAt": "2026-04-17T18:42:09.000Z",
+          "url": "https://x.com/mattturck/status/2045211226272129274",
+          "likes": 33,
+          "retweets": 1,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "tweets": [
+        {
+          "id": "2045394997630099922",
+          "text": "In the same vein, writing ≠ generating text\n\nIn fact, generating text is the LEAST important part of the writing process\n\nSo many people mistake LLMs as good writers just because it can generate text well https://t.co/MW42M78DYT",
+          "createdAt": "2026-04-18T06:52:23.000Z",
+          "url": "https://x.com/zarazhangrui/status/2045394997630099922",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2045257582470983691"
+        },
+        {
+          "id": "2045374512691360177",
+          "text": "Turns out in a lot of use cases, designing with code is superior to designing using image gen models \n\nI’ve been making most of my graphics using HTML instead of Nano Banana",
+          "createdAt": "2026-04-18T05:30:59.000Z",
+          "url": "https://x.com/zarazhangrui/status/2045374512691360177",
+          "likes": 38,
+          "retweets": 1,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2045250489189908534",
+          "text": "Thrilled to have backed @nicbstme and the @fintoolx team as an angel. \n\nFintool was a magical product that was able to do a lot of the heavy reasoning tasks before the models even existed. \n\nMicrosoft is getting an absolutely phenomenal product team 🎊 https://t.co/vaQofndyv5",
+          "createdAt": "2026-04-17T21:18:10.000Z",
+          "url": "https://x.com/nikunj/status/2045250489189908534",
+          "likes": 14,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2045238993810571761"
+        },
+        {
+          "id": "2045173395608961281",
+          "text": "During my time @Opendoor, @chintanparikh94 was easily one of my favorite engineers to collaborate with. Smart, opinionated, deeply cares about the customers. \n\nWhen he said he’s leaving Secureframe to start a newCo with @chrissesi, I immediately asked where do I wire - even before they joined YC. \n\nIt was a short but really fun journey to work with them - and @Opendoor is getting (again) a truly phenomenal team!",
+          "createdAt": "2026-04-17T16:11:49.000Z",
+          "url": "https://x.com/nikunj/status/2045173395608961281",
+          "likes": 77,
+          "retweets": 4,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2045157912310325349"
+        },
+        {
+          "id": "2045153654861431177",
+          "text": "Full essay by @traestephens &amp; @markiewagner here: https://t.co/ryoMXIy7CG\n\nThe best part is the immediate next paragraph completely roasts me and my job 😆",
+          "createdAt": "2026-04-17T14:53:23.000Z",
+          "url": "https://x.com/nikunj/status/2045153654861431177",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+      "tweets": [
+        {
+          "id": "2045276507527143629",
+          "text": "Vancouver, it’s been a blast! 🇨🇦 https://t.co/pGSqgpZZm9",
+          "createdAt": "2026-04-17T23:01:33.000Z",
+          "url": "https://x.com/steipete/status/2045276507527143629",
+          "likes": 883,
+          "retweets": 65,
+          "replies": 54,
+          "isQuote": true,
+          "quotedTweetId": "2045274536053219788"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2045246172022149537",
+          "text": "watch the full Opus 4.7 Vibe Check: https://t.co/8eCWx44e48",
+          "createdAt": "2026-04-17T21:01:00.000Z",
+          "url": "https://x.com/danshipper/status/2045246172022149537",
+          "likes": 4,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2045246160202580192",
+          "text": "Every @claudeai model has a different idea of how much to help.\n\n@alexalbert__ from Anthropic explains why—and what to expect from Opus 4.7. https://t.co/ByiHOdJZf1",
+          "createdAt": "2026-04-17T21:00:58.000Z",
+          "url": "https://x.com/danshipper/status/2045246160202580192",
+          "likes": 39,
+          "retweets": 3,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2045241699992047638",
+          "text": "here is our full Opus 4.7 vibe check\n\nwe broke down how it performs on coding, writing, spreadsheets and more: https://t.co/nAGRn1rWpS",
+          "createdAt": "2026-04-17T20:43:14.000Z",
+          "url": "https://x.com/danshipper/status/2045241699992047638",
+          "likes": 93,
+          "retweets": 5,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Claude",
+      "handle": "claudeai",
+      "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+      "tweets": [
+        {
+          "id": "2045248224659644654",
+          "text": "The Claude Code hackathon is back for Opus 4.7.\n\nJoin builders from around the world for a week with the Claude Code team in the room, with a prize pool of $100K in API credits.\n\nApply by Sunday: https://t.co/5MCkMtP5ti https://t.co/xmVhEQGtaL",
+          "createdAt": "2026-04-17T21:09:10.000Z",
+          "url": "https://x.com/claudeai/status/2045248224659644654",
+          "likes": 5733,
+          "retweets": 455,
+          "replies": 264,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2045222254699511855",
+          "text": "Claude for Word is now available on Pro and Max plans to use alongside Opus 4.7: https://t.co/MJ89c4IuTt https://t.co/Yb3ZZQTsXb",
+          "createdAt": "2026-04-17T19:25:58.000Z",
+          "url": "https://x.com/claudeai/status/2045222254699511855",
+          "likes": 7816,
+          "retweets": 530,
+          "replies": 349,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2045156271251218897",
+          "text": "Claude reads your codebase and design files to build your team's design system, then applies it automatically, keeping every project on-brand.\n\nGive it a try: https://t.co/C9iewmyMQs\nRead more: https://t.co/FHQUP6aejg",
+          "createdAt": "2026-04-17T15:03:46.000Z",
+          "url": "https://x.com/claudeai/status/2045156271251218897",
+          "likes": 2207,
+          "retweets": 119,
+          "replies": 58,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Scaling Global Organizations in the Age of AI with ServiceNow CEO Bill McDermott",
+      "guid": "4255b42e-3a9e-11f1-8eee-179e850fd703",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-04-17T20:44:00.000Z",
+      "transcript": "Speaker 1 | 00:00 - 00:40\nThe cost to replace an enterprise platform in this SaaS apocalypse that people talk about is an extraordinary expense. Let's take that cost, and then let's take the cost associated with the human capital doing that instead of something else because the platform was doing the work for you. And then let's add up the cost of the GPU factory and the tokens that will materially affect their business model. And so for a simple application on our platform, it would be 10 times greater in cost to try to replicate it with a language model. People that run businesses understand that people make mistakes.\n\nSpeaker 1 | 00:40 - 00:44\nThey never will forgive software for making a mistake.\n\nSpeaker 2 | 00:50 - 01:11\nHi, listeners. Welcome back to No Priors. Today, I'm here with Bill McDermott, CEO of ServiceNow, and the closest thing we have to a rock star in enterprise technology. We talk about leadership in the age of AI, what enterprise customers actually want, the difference between SaaS platforms and the SaaSpocalypse theory, and the next ten years of ServiceNow. Welcome.\n\nSpeaker 2 | 01:11 - 01:12\nThank you so much for being here.\n\nSpeaker 1 | 01:12 - 01:14\nThank you for having me, Sarah. Thank you.\n\nSpeaker 2 | 01:14 - 01:27\nSo I want to talk about your career and leadership and what's going on with ServiceNow. But I want to start at the beginning. I read Winter Stream last week. And you It's an amazing book. You talk about the deli you bought when you were 16.\n\nSpeaker 2 | 01:29 - 01:39\nFirst of all, that's a very strange thing to do. But it's such an amazing story. Can you tell me a little bit first about your thought process, and then we can talk about how you manage it?\n\nSpeaker 1 | 01:39 - 02:11\nYeah. I don't deserve too much credit for, you know, doing a strange thing buying the deli because I was really trading in multiple part time jobs. At the time I was stocking shelves, pumping gas, and bussing tables. And so I had a chance to consolidate all of that into the delicatessen and have one job where I could spend all of my hours. And for a kid going to high school, that kind of made a little bit more sense.\n\nSpeaker 1 | 02:11 - 02:24\nSo I got lucky. I bought the business for 5,500 notes, 7,000 with interest. If I make the payments, I keep it. If I miss a payment, they take everything away from me. So it was a pretty cut and dry moment.\n\nSpeaker 1 | 02:25 - 02:46\nAnd I think the biggest thing that I've learned in my life, and especially there, is it's all about the customer. In the end, the customer and the customer alone determines whether you win or lose. And it's a very simple equation. If you keep them coming back, you got a good chance. And if you don't, you lose.\n\nSpeaker 1 | 02:46 - 03:26\nAnd back then, one of the most interesting parts about that store was knowing your customer and knowing your base. And I really had, you know, three main customers. You know, one was the blue collar worker like my dad, as I said in the book was rich on Friday and dead broke by Sunday morning. They were the senior citizens and this was the early days of DoorDash, I guess, because they never wanted to leave their house and we delivered and no one else did. And the hard part was getting the kids to walk a block and a half past 07:11 to come to my store.\n\nSpeaker 1 | 03:27 - 04:04\nAnd these were the early days of video games and Asteroids and Pac Man. And you you tell that to people today, most of them never even heard of these games, but kids would stand there for hours plucking their parents' quarters into those games. And that's how I got them to walk a block and a half past 07:11 and come to my store. At the end of a long day, one of the young people said to me, you know, when we want to have good food, be treated with dignity and respect and play video games, we come to your store. And when we want to steal stuff, we go to seven Eleven.\n\nSpeaker 1 | 04:04 - 04:38\nSo if you take care of your customer, you know who your customer is, and you give them what they want just the way they want it, no matter what business you're in, you've got a really good chance. And that's all I did. And it put me through school, including college, and it got me my start. And I have to tell you, the EQ that comes with dealing with 500 customers a day is worth a lot. And I have a feeling the world could use a little more EQ right now.\n\nSpeaker 2 | 04:38 - 04:45\nI learned a great deal not managing a deli, but at least being a hostess in an Outback Steakhouse. See? Yeah.\n\nSpeaker 1 | 04:45 - 04:46\nYou can relate, right?\n\nSpeaker 2 | 04:47 - 05:05\nWell, you just, you know, the repeats of dealing with a lot of different types of people So, is it's still like amazing and strange to me. You talk about this set of customers that you, you know, understood and tried to serve. Like, were you just sitting there in the deli observing them before you bought the thing? Like, how did you even figure out\n\nSpeaker 1 | 05:05 - 05:23\nthat I these were worked there first, you know. And what happened was the owner was going through some personal divorce circumstances and wanted out. And I was the guy that was always there anyway. So he tried to sell it. It was only a one year lease.\n\nSpeaker 1 | 05:24 - 05:40\nYou never owned the land or the building. So he was selling a one year lease. The lease was owned by Sunmark Industries, which is Sonoco gas station. And they could throw you out anytime they wanted. So only a kid who didn't know any better would pay anything for it.\n\nSpeaker 1 | 05:40 - 06:01\nSo eventually that's how the deal got put together. I said, I don't have any money, but I'll, you know, take a note from you and pay you back with interest. If I miss a payment, you get everything back. What was really interesting about the story is I didn't have any money. But what I did have because I worked there is relationships with all the suppliers.\n\nSpeaker 1 | 06:02 - 06:21\nSo I got them to give me the first order on consignment. I said, I will always pay you back. This is not a favor. This is a chance for you to get your shelves filled up with your stuff that I'm going to sell for you. But in the end, I'll always owe you that first delivery.\n\nSpeaker 1 | 06:21 - 06:42\nAnd probably they charged me too much on the margin, but I didn't care. I was in business and that's all I wanted was a shot. And that's all I've ever wanted is a shot. And I'm so honored that in my life I've had the shot. And when you have a chance, you can really bring the winner within you out.\n\nSpeaker 1 | 06:42 - 06:53\nAnd all people should ever want is an opportunity because an opportunity is a gift and it's something that you should really cherish. And every time you get one, make the most of it.\n\nSpeaker 2 | 06:53 - 07:06\nThat resonates. One of the things I love about being in venture is you're in the business of giving people shots. And entrepreneurs like yourself, especially when they get to be very successful, they value it for a really long time.\n\nSpeaker 1 | 07:06 - 07:33\nWell, I deeply admire what you do. And I mean, can you imagine being the guy that came from the corner store that went to the corner office? And I think about your great job that you do in the venture world, and how unbelievably creative you have to be, and the benefit of seeing all these young entrepreneurial companies. It's something I've always had a great deal of interest in. So like, I should really be doing the interview with you right now, Sarah.\n\nSpeaker 2 | 07:33 - 07:57\nAbsolutely not. When you Okay, so it starts with, you know, your part time jobs in the deli and then this amazing career in sales and leadership and SAP and ServiceNow. One more piece on the leadership front before we go to, you know, talking about the companies that's So happening in the tech in the book, you talk about resilience and ambition and disciplined execution.\n\nSpeaker 1 | 07:57 - 07:58\nWhen\n\nSpeaker 2 | 07:58 - 08:17\ndid those ideas crystallize in your head as the way you would lead? And then do you think that changes today given how dynamic the landscape is? And I was just talking to the leader of a, you know, tens of billions of dollar AI company. And they're like, we have to update our strategy every month. Like, we have no idea what's going on.\n\nSpeaker 2 | 08:17 - 08:21\nAnd so how do you how do you think about operating in today's environment?\n\nSpeaker 1 | 08:22 - 08:31\nI had the great pleasure last night of meeting with about 800 business people that were in town from Brazil.\n\nSpeaker 2 | 08:31 - 08:32\nAnd\n\nSpeaker 1 | 08:32 - 08:56\nwe were talking about leadership. And they took me back to my book, Win is Dream. A lot of them listened to it, which is fun because I I actually read it kind of straight through in between business trips. And I'm glad I did because it added the authenticity to the book I had hoped for. But it was wonderful being with them.\n\nSpeaker 1 | 08:56 - 09:19\nAnd they really wanted to talk about leadership. And I think leadership is the greatest profession in the world. And in this environment we're in today, which is changing, and it's dynamic like never before, and it's fast like never before, I tell them it is fast, but it'll never move this slow again. So this is the way it's going to be.\n\nSpeaker 2 | 09:19 - 09:20\nThat's kind of stressful.\n\nSpeaker 1 | 09:20 - 09:53\nYeah, it is in one way, but it's inspiring in another. You know, we have to learn to get like real inspiration from the challenges that are in front of us. Because if we're able to cope with them, and especially if we're able to overcome them, we get superpower. But I go back to the original job being a leader and, you know, getting my first break with getting my job at Xerox. And, you know, Xerox back then was the Google of its era.\n\nSpeaker 1 | 09:53 - 10:13\nRight. And it was just like such an honor. And you know, I go back to that original interview a lot in my mind, and I think about the opportunity of getting that shot. And you know, I'm getting geared up to leave Long Island. My dad drops me off at the railroad tracks.\n\nSpeaker 1 | 10:13 - 10:46\nAnd, you know, I just turned 21 years old, and I guaranteed my dad I was coming home with my employee badge in my pocket. And there's something important about that, because my dad said, Bill, you're a good guy. Don't put all that pressure on yourself. And I said, no, no, no, I guarantee it. And I went in to New York that day and I was reading the annual report on how that CEO, David Kearns was his name, was reinventing this corporation under the quality management principles given to the world by Deming.\n\nSpeaker 1 | 10:47 - 11:04\nAnd at that time, as you know, most of the most valuable companies in the world were from Japan. And they were actually selling a very high quality product for a lesser price than Xerox was building a lesser quality product.\n\nSpeaker 2 | 11:04 - 11:05\nIt's hard.\n\nSpeaker 1 | 11:05 - 11:40\nHard to do, right? And so this is exactly the time I'm joining the company, but I was so inspired by this guy wanted to transform that company that by the time I got into New York, I wanted to be the next David Kearns. But I had to go knock on cold doors for a living to get my shot. So on my last interview, I'm so psyched up cause I'm meeting with the big boss at 9 West 57th overlooking Central Park, and I sit on a bench next to another friend that's my buddy today who's waiting for an interview. And he's been waiting for a long time.\n\nSpeaker 1 | 11:40 - 11:53\nI said, what are you doing waiting? I go over to Joanne Siciliano, who's a receptionist, and I said, look, I had all day. I'm not going anywhere. Please let Mr. Fullwood know I'm waiting, and I really look forward to our meeting.\n\nSpeaker 1 | 11:54 - 12:19\nI was instantly invited into his office. And this is the essence of it all. As I looked over his shoulder at Central Park on the 38th Floor, 9 West 57th, I realized then, as I realize now, it was not an interview. It was a battle for survival. Because if I get that job, I'm in control of my own destiny.\n\nSpeaker 1 | 12:19 - 12:37\nIt's my shot, and it's up to me to do something with it. So at the end of an interview, he said to me, Bill, it's very interesting interview. You're an interesting young guy. The HR department's gonna get in touch with you in the next couple of weeks. And I said to him, you know, Mr.\n\nSpeaker 1 | 12:37 - 13:04\nFuller, I don't think you completely understand the situation, sir. And he looks at me with a tilted head, like what's this kid up to? And I said, I haven't broken a promise to my father in twenty one years, and I guarantee he won't come home tonight with my employee badge in my pocket. And he really like kind of tilts his head now, like what's this guy up to? And you know, he goes, you know, Bill McDermott, as long as you haven't committed any crimes, you're hired.\n\nSpeaker 1 | 13:04 - 13:17\nNow, I hadn't committed any crimes. Of course I told him that. And I double checked that you really mean it, I'm hired. And he goes, yeah. So I go over there and I, you know, he's kind of sitting the way you are.\n\nSpeaker 1 | 13:17 - 13:41\nI pick him up, hug him a little bit, put him safely back in his chair. And I run past the receptionist, Joanne, and get down to 5th Avenue and head over to 6th Avenue to a Bunnenburg or to a PayFone. I call up mom and dad and I say, you know, break out the CorBelle, got the job. Now, people don't often know, especially in Silicon Valley, what Corbel is.\n\nSpeaker 2 | 13:42 - 13:43\nI'll admit, I do not.\n\nSpeaker 1 | 13:43 - 13:48\nIt is like the cheapest, worst champagne you've ever had in your life.\n\nSpeaker 2 | 13:48 - 13:48\nOkay.\n\nSpeaker 1 | 13:48 - 14:32\nBut in Long Island where I come from, that's Cristal. So the point of the whole thing, twenty five years later, Emerson Fullwood asked me to give a speech at the Rochester Institute of Technology to students. And in introducing me, he said the only time that he had ever broken policy at the Xerox Corporation was the day he hired me. I didn't know that. And what I found remarkable about it is that he remembered that, and he knew what he was doing when he did it, and thought it was worth it.\n\nSpeaker 1 | 14:33 - 15:29\nSo we have to put tremendous care into people, tremendous attention to detail when it comes to, you know, uniqueness in human beings and what they are capable of doing. And without him, I wouldn't have gotten my shot. And I never forgot that. And today, when I have CEO meetings, he still comes to them, and he's my friend for life. So I think somehow in the mixture of things with AI and today's society, we're losing a little bit of the human power that we all have to connect with each other and do magical things together, and just make sure we remember AI is to serve people and to make the human ambition greater, not to take it away from us.\n\nSpeaker 1 | 15:29 - 15:46\nAnd so that's my feeling on, you know, just how things have changed. But in many ways, the essence of leadership, human connection, people are just more important now than ever.\n\nSpeaker 2 | 15:47 - 15:59\nI know I said I was gonna then ask you about ServiceNow, but I have to ask you a little bit more about Sure. Let's do it. Do you think it's possible to coach or to teach people that type of agency that you have?\n\nSpeaker 1 | 15:59 - 16:34\nYeah, I do. I think that, you know, someone asked me last night, you know, that similar question. And I said, you know, I'm a person like a lot of other people. I was a very shy, quiet, laid back kid and really came into my own through work. And, you know, those part time jobs I was telling you about and the desire to be somebody in this world and know that my only way out, I wasn't going to make the NBA, I love basketball, but I wasn't going to make the NBA.\n\nSpeaker 2 | 16:34 - 16:35\nYeah, me neither.\n\nSpeaker 1 | 16:35 - 16:48\nRight. So I said, you know, what can I control? I can control how hard I work. I can control desire to do something and make a difference. I can control that.\n\nSpeaker 1 | 16:48 - 17:40\nAnd so I got a lot of confidence from work. And, you know, other people might get confidence from something else and that's fine. But I think it's so important to be connected to work, especially work that ties to people. Because when you know how to deal with people, and in the deli I had 500 of them a day, you start to get a good feeling and a good understanding that if you really listen, if you really care, and you're really there, present, and not just going through the motions, there's people that want to connect with that kind of person. And so I really do believe that you can teach that, but you do have to practitioner, you know, those ideas, you have to be a part of the process.\n\nSpeaker 1 | 17:41 - 18:27\nAnd I think so much is done today on the beautiful mobile phone in your hand that it's replaced, you know, the human side of the connection. I, like you, I've got one in each pocket, and I value them because they make me more productive and happier because I can do those things. But we really do have to train people. We have to make them do it, where they actually have to simulate and be trained and be certified and understand and be coached well, so they have the confidence to get out there and be in front of other people where they can lead and make a difference. And I'm convinced that they can do it.\n\nSpeaker 1 | 18:27 - 18:39\nYes, there are differences. Some people are more skilled at it naturally, innately, no question, But more people are capable of more things than they realize.\n\nSpeaker 2 | 18:39 - 18:57\nThat's very encouraging. One thing that also struck me as soon as I asked you the question about like leadership in the age of AI was your immediate reaction. I said, you know, something that's a very common sentiment. It's the pace of change is scary. And your immediate reaction was like, well, it's also inspiring.\n\nSpeaker 2 | 18:57 - 19:10\nRight? It was a very like positive attitude for, especially for, you know, someone running an amazing, incredibly durable platform company where you're also facing more questions than you have previously.\n\nSpeaker 1 | 19:10 - 19:10\nSure.\n\nSpeaker 2 | 19:11 - 19:21\nHow do you think about like, you know, getting everybody at your company or encouraging other people to have that type of reaction to change, that it's all an opportunity?\n\nSpeaker 1 | 19:21 - 20:08\nWell, for one, I agree with you that a lot of people are frightened of change to begin with. The era of AI has disrupted every industry, every business, every person, and everybody needs to really rethink everything. And it seems to be coming all at once. So my approach to that was to lean into it. And one of the ways we did that here is put together a white paper on the blueprint for agentic business, which I'll happily give you a copy of today, and train them on, you know, what is the difference between a language model and an enterprise platform.\n\nSpeaker 1 | 20:09 - 20:24\nI'm not saying better or worse, they're both important. They're both extremely important. And one actually makes the other stronger. But if you don't know where one begins and one ends, it really is kind of confusing for people. And that was a big unlock.\n\nSpeaker 1 | 20:25 - 21:04\nI literally had CEOs tell me that that white paper actually let them see the world totally different, that there were many things in it that they didn't know or didn't realize. One such example would be, you know, let's take an example that's real. Every company today has a compensation issue. So, okay, we have a compensation issue on Aisle 7 in XYZ Corporation. The language model will do a great job of telling you, in a compensation situation like this, please consider step one, two, and three.\n\nSpeaker 1 | 21:04 - 21:31\nExcellent! Does it in milliseconds. Fantastic! Only problem is, it doesn't actually close the case. So now in Aisle 7, we got to have the data, the context, and we'll have to go in and out of several different iterations of departments, because let's assume it's a salesperson in Aisle 7, and oh, by the way, that's connected to the HR department.\n\nSpeaker 1 | 21:32 - 22:10\nAnd because it might be a problem, probably finance is involved in it, or legal, or compliance, or risk, and now we have data and a workflow that's gone through many different iterations, databases and functions to come back and remediate the issue and close a case. That's what a workflow platform like ServiceNow does. And it was also important to have AI think, but workflow acts. That's an unlock for a lot of people. Another case example would be, hey, you know, I'm a bank.\n\nSpeaker 1 | 22:10 - 22:30\nI've got 15,000 of my own engineers. My CEO is under pressure from the board to come up with AI use cases. The board meeting is coming up in sixty days, and I got to look like I got all my stories straight on what we're doing to infuse AI. You agree that that's a common\n\nSpeaker 2 | 22:30 - 22:31\nthing, Very common, yes.\n\nSpeaker 1 | 22:31 - 23:18\nVery common thing. Okay. So, one thing would be AI and some of the AI code out there is fantastic. And it can write new code very beautifully and set up the engineer for success and get things done at a speed never before done in the world. It's also true that that net new code comes at a cost, because the cost to replace an enterprise platform in this SaaS apocalypse that people talk about is an extraordinary expense to try to match what some of these really important enterprise platforms do, because you'd have to rebuild it.\n\nSpeaker 1 | 23:19 - 23:50\nYou're getting a model. I'm going to write code now. So I'm rebuilding your model. Let's take that cost, and then let's take the cost associated with the human capital doing that instead of something else, because the platform was doing the work for you, and then let's add up the cost of the GPU factory, the business model associated with the language model company, and the tokens that will materially affect their business model. We've actually done the math on this.\n\nSpeaker 1 | 23:51 - 24:08\nAnd so for a simple application on our platform, it would be 10 times greater in cost to try to replicate it with a language model. Now, the other thing about that is, if I give you the language model and it makes a mistake, you call me up and you\n\nSpeaker 2 | 24:08 - 24:14\nsay, hey, Bill, the language model made a mistake. And I say to you, the language model works. And you say, yeah, it works, but it\n\nSpeaker 1 | 24:14 - 24:44\nmade a mistake. Well, it's probably right, but it's not deterministic. And incidentally, it doesn't have the context of all the data that has materialized in the company and our relationship for a couple of decades now. And so what we're learning too is people that run businesses understand that people make mistakes. They never will forgive software for making a mistake.\n\nSpeaker 2 | 24:44 - 24:45\nSo\n\nSpeaker 1 | 24:45 - 25:14\nwe're kind of in a situation where at a very small fraction of an IT budget, a premier platform is a bargain. And to combine that with AI and the things that AI can do, you get the best of both worlds. You get more innovation, better integration, and a better outcome. Try to build it yourself at a 10x higher price, and then you have a problem. And I just tell you that the model works, because I just give you the model.\n\nSpeaker 1 | 25:15 - 25:17\nYou don't have someone to call to fix things.\n\nSpeaker 2 | 25:17 - 25:47\nI think a lot of the SaaSpocalypse discussion ignores the basic fact that I don't think most businesses want to build workflow software for everything they do internally. And I do think they want somebody to be responsible for it. And I think it takes a lot of energy to go gather context today. It is not an automated thing. And maybe it'll become more automated, but that all resonates for me.\n\nSpeaker 2 | 25:47 - 26:05\nI will have to ask you, you know, so LMs, they can, in the traditional interaction mode, they give you an answer when you ask Now a question, you have long horizon agents, maybe you have computer use, people can use applications with these models. Does that change your thinking at all?\n\nSpeaker 1 | 26:05 - 26:16\nNo. I think we lean into it. You know, our perspective is these language model companies are fantastic. And they're very important. And they're going to do fabulously well.\n\nSpeaker 1 | 26:17 - 26:34\nWe said the same thing with the hyperscalers. You know, it wasn't that long ago that people were like, hey, you know, why wouldn't the hyperscalers just eat software? Because everything is going to go to a workload in these great hyperscaler companies. And they are great companies. They're fabulous companies.\n\nSpeaker 1 | 26:34 - 27:48\nAnd so our perspective was: we have to be the AI control tower for business reinvention that integrates with all the hyperscalers, with all the language models, and all the systems of record, because they too are important companies, and the data that resides in them is very important. So if we can be that fabric that connects all those nodes, now we can help you run a true agentic business. And on top of that, we made the move into security, not because we're going to do all things in security, but because US is the world's largest economy, China is number two, and cybercrime is number three. It's a $1,000,000,000,000 a month problem. And so we feel that being able to integrate to all the good security platforms, but manage IT and OT, which is the operating technology, with Armis now becoming a part of ServiceNow, we're going to give corporations the ability to have a full purview of the whole landscape.\n\nSpeaker 1 | 27:49 - 28:35\nAnd so for example, in operating technology, you know, it could be networks with devices attached to it. It could be manufacturing with various tools that are or aren't on a network where AI can or may not even see them. It could actually be medical devices in a healthcare situation. It could be a world's prestigious bank managing critical infrastructure, which includes the people, places, things, but also the building and the things in it, to have all of that in one automated AI platform for this reinvention of your business is pretty compelling. So it's all there now.\n\nSpeaker 1 | 28:36 - 29:09\nAnd I really like see such a future and such growth in all of these businesses, our core and what we've extended it to, because we're a native AI company. Even the platform itself now is autonomous. And you know, you've seen what we did with Moveworks, the agentic front door to the enterprise, and VESA, which is human and nonhuman identity, and now the security move with Armis on top of an unbelievable core. By the way, we integrated these businesses in twenty days. Twenty days.\n\nSpeaker 1 | 29:09 - 29:17\nSo, a lot of companies don't have the engineering power to say they can do hard things quickly.\n\nSpeaker 2 | 29:17 - 29:17\nBut,\n\nSpeaker 1 | 29:18 - 29:21\nyou know, we're blessed with some real talent here.\n\nSpeaker 2 | 29:21 - 29:51\nIt's very impressive. I have sold companies to, you know, large enterprise software vendors where it takes like a year and a half of rebuild to get Totally. Some value out of I think it's a really good historical reminder that people forget that there was this fear about the hyperscalers as well, which, as you mentioned, have become very important to all of our businesses and yet have not replaced the need for, you know, workflow software and platforms.\n\nSpeaker 1 | 29:51 - 30:13\nYeah. As you said, you know, actually are very good partners, you know. And on the back of a ServiceNow franchise, get billions in workloads into those clouds. And they're all such great companies, but they all tend to do different things super well. So for the customer that have choice is also a great idea.\n\nSpeaker 1 | 30:13 - 30:28\nJust like they'll want choice on the language models, And us not staying in the way of that and given choice, but acting as that control tower is a huge competitive advantage or differentiation, whichever your perspective might be.\n\nSpeaker 2 | 30:29 - 30:36\nDo you think there's any segment in enterprise software that is at risk from generated code and agents?\n\nSpeaker 1 | 30:37 - 31:37\nI think that it's true that there will be companies that will be at risk. It's also true that they theoretically should be more valuable because of the data and the context around that data. But if there was a risk, I believe it's more departmental companies. So if you think about companies that do something that span multiple departments or are a serious system of record that is very hard to replicate, they're safe, and they'll be a part of the future. If you're serving one function, and what you do is not tremendously high value add, and it might not even be a high up on the priority list of a CEO, I think that that would be the chance where the vulnerability equation really rises quickly.\n\nSpeaker 1 | 31:37 - 32:11\nWe're fortunate in the sense that we go end to end on a horizontal and north to south on a vertical, up and down the stack and across the enterprise. And I think that's a pretty huge moat. And right now, believe the last time I looked at it was more than 85,000,000,000 workflows are in flight as we're having this podcast. And we got 7,000,000,000,000 transactions happening on that platform. And it's representing the most important brands in the world.\n\nSpeaker 1 | 32:11 - 32:21\nAnd that's not only something we're proud of, but it's also a serious responsibility because those companies can't miss. And that system always has to be there for them. And fortunately it is.\n\nSpeaker 2 | 32:21 - 32:48\nYou uniquely have run two companies that are just clearly platform businesses, SAP Do and you have a definition in your mind of what makes something a platform business? Because I grew up as an investor in the age of SaaS. Yeah. And, you know, rise the cloud and everything. And it is, I think it was wonderful for innovation that you could build like sort of features that turned into companies, right?\n\nSpeaker 2 | 32:48 - 32:55\nSoftware workflows that were sort of tangential to a system of record, for example.\n\nSpeaker 1 | 32:55 - 32:55\nYep.\n\nSpeaker 2 | 32:56 - 33:11\nServiceNow originally began with like IT service desk as the workflow. But how do you think about like how the positioning is and the actual work is very different now? And then like, you know, how you got there?\n\nSpeaker 1 | 33:11 - 34:00\nYeah. I think that had we only done what you rightfully point out, which had been an IT service company as an example, that might have been a system of record for the IT department. But I think when CEOs look at a corporation and they say, what are the needle movers? Those are the companies that, since you mentioned the two that I work for, you know, one is running the financial system of global corporations of mass scale in multiple currencies, geographies, industries. And it's really kind of thorny and complicated to even think about removing something, especially something that's probably been mass customized for the unique attributes of that business.\n\nSpeaker 1 | 34:01 - 34:22\nSo the investment scale was great. The switching costs are very high. I think you would consider that a platform. And I would say the same is true in a certain sense for a company like ServiceNow, but for a different reason. Yes, it's a system of record for all the things IT and the services that it provides.\n\nSpeaker 1 | 34:22 - 35:09\nBut it's even bigger than that in the sense that all of the other systems of record integrate with it. So now you have roughly 800 of the more substantial systems of record that integrate into it. And because of our in memory, open source data platform, so it's built on the open source technologies, But its speed, its scale, its ability to ingest data, we could take as much as you give us. But similarly, you might say, okay, I'll give you your core IT and OT, and I get the holistic end to end process, but, you know, I have data lakes, I have hyperscalers, I have language models. What about in the flow of work or a business process?\n\nSpeaker 1 | 35:11 - 35:36\nWhat can you do for me if I don't want to put it in ServiceNow? Oh, we make a zero copy. And then the transaction is complete, done and dusted, nothing moved. There was no risk associated with it, and it works. So I think that is a mission critical platform in the execution of work and the basics of getting things done.\n\nSpeaker 1 | 35:36 - 36:25\nWhat's unique about it is you can change the business process instantaneously using the AI tools that are resident in the platform. So if you want to build a net new application, you can do so. If you want to see how the business process would change in a knowledge graph, you can do so, and you can see how that change impacted the processes and the way work flows, and all the individuals impacted in a corporation in real time. So I think the motion of that is very, very hard to replicate, both on the history of it, the bandwidth of it, and also what we have designed in terms of the systems capabilities. It's very unique.\n\nSpeaker 2 | 36:25 - 36:58\nOne of the things that makes workflow platforms so sticky is the organization, beginning with IT, learns how to deploy workflows on it. And as you said, maybe they can do it even more instantaneously now. The cost to implement new business processes, integrate, customize has always been very high for enterprises. Is that decreasing with AI? Is that like an advantage for you, a concern for you?\n\nSpeaker 1 | 36:58 - 37:12\nIt's a great question. It's actually a big advantage Because we were always quick to implement. You know, nobody has time for multi year projects. You know this. And the customer wants to get the value really fast.\n\nSpeaker 1 | 37:13 - 37:41\nAnd with autonomous platform like we have now, we have major customers, big ones, that are going live in less than 30 days. Big ones. And so think about it. You know, if you go back, as you mentioned, know, think about the financial crisis era, and the scale even then of SaaS applications. If they could have been implemented in less than 30, everybody would be doing a rain dance with happiness.\n\nSpeaker 1 | 37:42 - 38:01\nIt took months. And to think that you can do things, big things, complex things in less than 30, and in some cases even faster. And it's all modular. So you can get your quick wins and just keep going. You know, some people thought that the SIs, you know, would be hurt by this.\n\nSpeaker 1 | 38:01 - 38:06\nBut the difference is they actually have many more projects now that they can do much more quickly.\n\nSpeaker 2 | 38:06 - 38:07\nOh, wait, that's what you're saying?\n\nSpeaker 1 | 38:07 - 38:18\nYeah. I'm saying much more quickly. Everything is happening much faster. The customer's ROI is better. I'm a big, you know, proponent of a native AI company.\n\nSpeaker 1 | 38:18 - 38:38\nAnd everything we do is about being a native AI company. Every change we make is because of AI. And some of those things, you know, they change business models, they change the way humans actually work in the company. For example, you know, 90% of our customer service cases now are managed by agents.\n\nSpeaker 2 | 38:38 - 38:39\nAnd\n\nSpeaker 1 | 38:39 - 39:05\nyou know, that means like only 10% are actually involving people. And so there's a lifting and a shifting and a changing of the guard in terms of what people do for the critical thinking and the judgment calls that they have to make, instead of the tactical, you know, work of just grinding out details. And I think that makes people happier in the work, but it also does change the work.\n\nSpeaker 2 | 39:06 - 39:15\nIf you were to fast forward five years, like what do you think is different about the employee base at ServiceNow, or even like the work being done?\n\nSpeaker 1 | 39:15 - 39:46\nI think that in terms of employee base, I think you're going to see that the net new added headcount will be dramatically reduced. And that's because the company will be far more productive. The agents are real. And they will take on a tremendous workload. So where to keep up with growth in a growth company like ServiceNow, you would have to hire thousands of people in finance and HR and the supporting functions and services just to keep up with it all.\n\nSpeaker 1 | 39:46 - 40:39\nAnd now the agents are going to be able to do a lot of that. So you're going to invest in things that really matter, like humans that engineer great innovations, and that humans that actually manage the relationship and the importance of human to human connection, building trust, making promises and keeping them, and enduring a relationship and the net present value of loyalty in that relationship, that's all going to be human. But I can see a company where, you know, you don't have to really increase headcount to achieve that goal. And I do think that the bar got raised in terms of differentiating your skill set and making sure what you're capable of doing can't be easily replicated by an agent. Not just in ServiceNow, but in all businesses.\n\nSpeaker 1 | 40:39 - 40:59\nIf an agent can do it as good or better, that's an easy economic decision to make, which is why there'll be 2,200,000,000 of these agents entering the workforce in the next couple of years. So, you know, there's going to be a lot more agents than there will be people.\n\nSpeaker 2 | 40:59 - 41:30\nWhen you think about, you're just describing, you know, ServiceNow is growing about 20% a year. 13 plus billion in revenue trailing. It's a massive business growing at scale. I think one of the things that's so interesting about this SaaSpocalypse narrative is, you know, many of the companies, as described, are actually like doing really well on fundamentals. What are the signals you look for in your own business besides, you know, what customers tell you they want to do with you?\n\nSpeaker 1 | 41:30 - 41:31\nRight.\n\nSpeaker 2 | 41:31 - 41:36\nLike quantitatively or otherwise, let's say, like, what we're doing in AI is working.\n\nSpeaker 1 | 41:36 - 42:14\nWell, the most important thing is we've expanded the boundaries of the platform. So we have a company that's operating globally. We operate across multiple industries in the companies that we serve. We serve everything from IT to the employee experience to our fastest growing TAM, customer relationship management, obviously all the work that the creators do, and security as I talked about. So what I'm looking for is the adoption of the AI control tower for business reinvention.\n\nSpeaker 1 | 42:14 - 42:46\nAnd are we the agentic front door to the enterprise? Are we managing the humans and the nonhuman identities? Are we connecting in the workflow data fabric all of the nodes that are operating in an enterprise? Whether it's a data lake, a hyperscale, a language model, a system of record, all those things should go through the central nervous system, which is ServiceNow. And obviously, when I think about IT, we know the people, we know the places, we know the things.\n\nSpeaker 1 | 42:46 - 43:24\nWhen I think about OT, we actually know the networks, infrastructure, the shadow IT, the disconnected controllers in the case of a manufacturing company as an example. So this amazing real time insight and visibility into how that company is running and how we can make that company run better. That's the ethos of everything in terms of the customer relationship, that we know more, that we care more, and that we can do more for that customer than any other enterprise company in the world. That's the game plan. And, you know, for my money, what else do I look for?\n\nSpeaker 1 | 43:24 - 44:07\nI look for the AI and the assists that the agents are doing to help the humans in the companies we serve. And I want to see that the trend line of those assists and the consumption of that innovation is really going right and up to the north side of town. Because by doing that, you've solidified your position as super important to the way the company actually runs. And not to mention the fact that the shareholder value creation takes on a whole new meaning once you kick in that consumption model on top of everything else.\n\nSpeaker 2 | 44:08 - 44:28\nWhen you talk to like this amazing enterprise customer base that is deeply embedded with you, and then as you said, importantly, trusts you and trusts you to do more all the What is the state of play in terms of, you know, you described a very forward looking vision for what AI can do to transform enterprises. Like where are people today? What are the first questions they ask you? Do they believe it?\n\nSpeaker 1 | 44:28 - 45:16\nYeah, I think that's a great point because most people today know that they have to do something with AI. But like in the case of Brazil as an example, only 11% of the companies, since that was last night's meeting, have actually gotten past the experiment phase, where they're doing experiments. And so we're seeing now that companies are going past the experiment phase into mainstream on building the agentic business, on building the agents to complement the humans, and on driving business model innovation and efficiency. That is now picking up steam. But you have to remember, it's a very diverse set out there.\n\nSpeaker 1 | 45:16 - 46:16\nI mean, in public sector, they're just basically now trying to consolidate complexity and get one department to speak to another department, so we don't have billions of fraud getting through the cracks. Other industries, like healthcare as an example, we're now moving into the modernization phase, So the patient experience isn't so miserable because the professionals that work there are great, but the systems have been holding them back. But if you look at a financial services firm, for example, you know, they're moving full speed on what can I do with AI to fundamentally rethink how I run my company, to manage my headcount better, to get more done with a lot less? So it's kind of based on industry, based on geo, different geos have adopted it more quickly. The US is the leader in terms of consumption and adoption of AI and they're moving faster.\n\nSpeaker 1 | 46:16 - 46:30\nI give you a flavor of some of the industries. But I would say that it's more about modernization as a standard. And the first movers now are moving out with AI and they're aggressive and they're going for it.\n\nSpeaker 2 | 46:31 - 46:42\nWhen you think about like what going for it means, are there a set of use cases that are universal across companies? Or are there different things that matter to the different segments I\n\nSpeaker 1 | 46:42 - 47:14\nthat think that moving they're at their business model. And what can AI do to change my business model? The ones that are first movers or early movers. And headcount is definitely on the table. Obviously, you believe in the agent world and you do increase headcount, it's because you can see that the heads are supporting the digital transformation and the inclusion of the agents, and there's more revenue to be gotten by adding them.\n\nSpeaker 2 | 47:14 - 47:15\nYeah, there's ROI on it.\n\nSpeaker 1 | 47:15 - 47:36\nYeah. Exactly. And they're not going to add them anymore, meaning people without a clear ROI case. And in many cases, lot of these companies, especially if you look at the years 2020 to 2024, they hired a lot through COVID. Not a lot of people talk about this.\n\nSpeaker 1 | 47:36 - 47:55\nI haven't actually heard anyone talk about it. But when they did the hiring and everybody had a hand in this, a lot of it was virtual. A lot of it then was, you know, keep the people, we need the people. You know, there's a crisis out there. And now they've realized they've layered up the companies.\n\nSpeaker 1 | 47:57 - 48:37\nSome of the people maybe didn't get as close a look as they should have because, you know, Zoom was the way to meet them, greet them and hire them. And now with the inclusion of AI in the business model and the innovation of the companies, it's kind of like, how do we get leaner? How do we get smarter? And if AI does make us better, we should see that in the ultimate profitability of the company, the revenue per employee of the company. And the company should have expanding margins, expanding or reaccelerating revenue, and should be a more exciting growth story than it was two, three, four, five years ago.\n\nSpeaker 1 | 48:37 - 48:41\nSo there's high expectations for what AI can do.\n\nSpeaker 2 | 48:41 - 48:46\nWhat is the biggest thing that's changed in customer conversations for you about AI over the last year?\n\nSpeaker 1 | 48:46 - 49:09\nRight now, I think it's just tell me what I need to know. It's not like, let me come in and discover your problems, or let me bring you a solution because I have one in my pocket and I can't wait to share it with you. It's like, you know my business. If you don't know my business, there's no conversation. But let's assume you know the business.\n\nSpeaker 1 | 49:10 - 49:49\nBe very prescriptive. Tell me very specifically at the macro level, depending on the level you're talking to, how do I transform the company and keeping with the CEO vision or the management team's vision? At a departmental level, you really understand whether it's sales, it's human capital, it's engineering, or it's technology, or CTO and its orientation. You really understand the landscape. And you have very quick solutions that can get up and running and deliver the value in a highly predictable manner, and it's AI driven.\n\nSpeaker 1 | 49:49 - 50:05\nThey have to have AI in there, because they know the AI is the force multiplier. And so I would say the dance has gotten brief. The execution is where they want to spend their time. Get me there fast.\n\nSpeaker 2 | 50:06 - 50:11\nPretty impatient set of customers. Very. But they're, sounds like they're pretty decisive given the parameters.\n\nSpeaker 1 | 50:11 - 50:27\nReal decisive and real fair. I mean, you know, very open minded: If you can help me, do it, because I need the help. Everyone will tell you they need the help. They're not telling you they have all the answers. So it's our job, again, to know more about this than they do.\n\nSpeaker 1 | 50:27 - 50:44\nOtherwise, why do they need us in the room? And then you have to have a position that you take that brings something unique and variable to the equation. I always tell people if two people are in the same room at the same time with the same opinion, one of them is redundant.\n\nSpeaker 2 | 50:45 - 51:05\nI want to, well, I want to close-up with like two maybe more personal questions. You have a lot to cover with ServiceNow, but you're also just an interested guy. What inspires you or makes you curious in AI or elsewhere in technology outside of what you're doing with ServiceNow?\n\nSpeaker 1 | 51:05 - 51:46\nWell, I'm fascinated by so many things. What really interests me in technology is how it will truly improve the world, the human condition. It could be an environmental conversation. It could be what we're seeing happening in outer space. It could be global corporation trying to do unique things in a world in new places that they've yet to conquer, but they can do so with technology now and AI, and they can simulate a presence that might not actually be physical, but it could be unique, virtual and new.\n\nSpeaker 1 | 51:46 - 52:28\nThere's new routes to market, there's new channels, there's so many new things that could be done. So I think that this is the era where everything really does evolve and possibilities exist where there just weren't wasn't possible three, four, five years ago. So I find that, you know, it goes back to the quote that I put in book, since you mentioned Winner's Dream, when the great Robert Kennedy once said, you know, some men see things as they are and say, why? I dream things that never were and say, why not? So I always try to look at things that didn't exist or don't exist with the application of technology or just a great dream, what's possible.\n\nSpeaker 2 | 52:29 - 52:41\nAnd then in terms of just the day to day in between your dreaming, What is the day in the life of Bill McDermott as ServiceNow CEO look like?\n\nSpeaker 1 | 52:41 - 53:19\nWell, it depends on where you're physically at at the time based on what you're doing, because the time zones are all different. But if you're in California, which we are today together, you know, you start your day off, really easy to understand this with Europe. You migrate yourself then to The United States and you wrap up with Asia. So you always have to keep the tempo around the time zones and what's happening in the global economy. I just try to be a global person and be a leader that's involved in all dimensions of the company in any time zone in the world.\n\nSpeaker 1 | 53:19 - 53:21\nSo that's one aspect of it.\n\nSpeaker 2 | 53:21 - 53:25\nAnd you're talking to your teams there, hearing what's going on with customers, what's going on with them?\n\nSpeaker 1 | 53:25 - 54:08\nToday I've been in two out of the three with the regions of the world and I'll finish up with the third. And absolutely I want to hear what's going on with them, what's going on with the customer, what's going on with the business, what's going well, what's not going well. Based on where they're at at any one moment in time, I can see and I feel things very deeply and I'll offer my suggestions. I try not to make the decision for everybody, but I'll offer my suggestions just on observations. And then, you know, we have an open honest riffing relationship on ideating on something, and then ultimately we get someplace quick.\n\nSpeaker 1 | 54:08 - 54:31\nYou know, there's no time to screw around. We got to get to the point and move on. A lot of time with customers. You know, I feel that I really get grounded with the customers and understanding what they're trying to accomplish and how I can help them. And, you know, a lot of people talk about, you know, sales and, you know, the idea of running corporations.\n\nSpeaker 1 | 54:32 - 54:57\nIt's all based on the customer and the customer alone. They determine whether you win or lose. And if you never lose that in your heart, you're closer to success than failure. The other thing is I listen to the employees, you know. For example, yesterday I started my day with 17 conversations with 17 quota carrying reps.\n\nSpeaker 2 | 54:57 - 54:58\nWow. That's a lot.\n\nSpeaker 1 | 54:58 - 55:20\nOkay. 17. And I got 72 on my calendar this month. 72. And it's inspiring, because anytime you need to feel like, feel good, talk to the people that are closer to the customer and you realize just how great your company is, how great the people are, how smart they are.\n\nSpeaker 1 | 55:20 - 55:49\nAnd, you know, they have so many good ideas and they're doing so many good things. You know, one woman said to me yesterday, you know, she was most proud of the health check of her customer. And she told me all about the customer. The health check is our heuristics around customer satisfaction, to performance of the system And and so it just inspired me. And then, you know, always try to do, you know, one to one, one to few and one to many.\n\nSpeaker 1 | 55:50 - 56:16\nAnd last night I, you know, wrapped up my day with 800 executives from Brazil. And it was like amazing. And they wanted to, you know, talk about leadership and many of the things that, you know, you want to talk about. And I think everybody is in the mode right now where they want to learn, they want to experience what you think, and they want to grow. And they are uncertain.\n\nSpeaker 1 | 56:16 - 56:41\nAnd to some extent, you know, they don't have all the answers, and sometimes they're even afraid. And I explained to them, you know, don't look for the escape hatch. You know, this is the moment when leaders really matter. Because as the waters get choppy, you know, we see who's tough and who's not. And when the tide goes out, you want to be fully dressed.\n\nSpeaker 1 | 56:42 - 56:55\nAnd even if things don't look so good, you'll figure it out. If you're fully dressed and you're ready for the battle. And I think that this is bringing out the best and real leaders. And I live for this moment.\n\nSpeaker 2 | 56:55 - 57:01\nYou seem like a leader for that moment. And I love the confidence that you have that other leaders want to meet that change too.\n\nSpeaker 1 | 57:01 - 57:02\nThank you, Sarah.\n\nSpeaker 2 | 57:02 - 57:04\nAwesome. Thanks so much, Bill.\n\nSpeaker 1 | 57:04 - 57:07\nIt was an honor meeting you and spending this time with you. Thank you very much.\n\nSpeaker 2 | 57:18 - 57:26\nOr wherever you listen. That way you get a new episode every week. And sign up for emails or find transcripts for every episode at nopriors.com."
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "宝玉的工程技术分享",
+      "title": "两小时激辩：黄仁勋为什么不怕 TPU、不怕华为、不怕出口管制？",
+      "url": "https://baoyu.io/blog/jensen-huang-dwarkesh-interview",
+      "publishedAt": "2026-04-17T00:00:00.000Z",
+      "author": "宝玉",
+      "description": "黄仁勋接受 Dwarkesh 两小时专访，从 CUDA 护城河到对华出口管制，每个话题都火力全开。",
+      "content": "# 两小时激辩：黄仁勋为什么不怕 TPU、不怕华为、不怕出口管制？ | 宝玉的分享\n\n[宝玉的分享](https://baoyu.io/)[博客](https://baoyu.io/blog)[翻译](https://baoyu.io/translations)Menu\n\n[See all posts](https://baoyu.io/translations)\n\nPublished on 2026-04-17\n\n# 两小时激辩：黄仁勋为什么不怕 TPU、不怕华为、不怕出口管制？\n\n作者：\n\n宝玉\n\n![Image 1: 两小时激辩：黄仁勋为什么不怕 TPU、不怕华为、不怕出口管制？](https://s.baoyu.io/imgs/2026-04-17/jensen-huang-dwarkesh-interview/cover.png)\n\n黄仁勋最近接受了 Dwarkesh Patel 长达两个小时的高密度专访。这场访谈没有客套寒暄，只有密集的观点碰撞。如果你没时间看完，那就记住这一句话——掌控全球 AI 基础设施命脉的老黄，用这样一句话定义了 Nvidia 的使命：\n\n> “输入是电子，输出是 Token，中间是 Nvidia。” （“The input is electron, the output is tokens. That is in the middle, Nvidia.”）\n\n![Image 2: 从电子到 Token：Nvidia 的核心使命](https://s.baoyu.io/imgs/2026-04-17/01-infographic-electron-to-token.png)\n\n整场对话的气氛激烈又直白。主持人 Dwarkesh 在每个话题都紧追不放，尤其涉及中国芯片出口时，两人更是直接“杠”了整整二十分钟。老黄强烈反对把 AI 芯片当作武器的类比，而 Dwarkesh 则紧盯着刚发布不久、网络攻击能力惊人的 Anthropic Claude Mythos 模型，穷追猛打。\n\n![Image 3](https://s.baoyu.io/imgs/2026-04-17/ytcover.png)\n\n访谈来源：Dwarkesh Patel Podcast（2026 年 4 月初） 原始视频：[YouTube 链接](https://www.youtube.com/watch?v=Hrbq66XqtCo)\n\n* * *\n\n## 要点速览\n\n*   **Nvidia 的经营哲学是“少做，但每件事都是独一无二”**。这也是为什么 Nvidia 不做云、不押注赢家、不竞价分配 GPU。\n*   供应链的瓶颈最多两三年就能解决，**真正制约未来的是能源政策**，而非芯片产能。\n*   **CUDA 的壁垒不是技术锁定**，而是庞大的 GPU 装机量、丰富的生态系统，以及在不同云平台之间的可移植性。Nvidia 还直接派驻工程师帮 AI 公司优化模型，通常能轻松提升模型速度 2-3 倍。\n*   **Anthropic 使用 TPU 和 Trainium 是特殊个案而非趋势**，原因在于早年 Nvidia 没及时投资 Anthropic，逼得后者只能依靠 Google 和 Amazon 的芯片生态。\n*   中国早已拥有足够的 7nm 芯片产能和大量能源，**限制出口根本挡不住 AI 发展**，反而会推动中国芯片的完全自主化，让美国白白丢掉全球第二大科技市场。\n*   Nvidia 收购 Groq 不是因为自家 GPU 架构不行，而是因为**推理市场的 Token 已经贵到可以分档收费了**。\n\n* * *\n\n## 【1】从电子到 Token：Nvidia 如何定义自己？\n\n一开场，Dwarkesh 就抛出一个尖锐的问题：如果 Nvidia 的工作本质是写软件，而 AI 又正在把软件逐渐商品化，那 Nvidia 自己会不会也被商品化？\n\n老黄干脆直接把问题推翻重来：“把电子转化成 Token，这事儿本身几乎没法被商品化。”因为这个转化过程不仅复杂，而且远未被充分理解。他强调 Nvidia 的哲学是：\n\n> “做必要的事情，越少越好。” （“We should do as much as needed, as little as possible.”）\n\n这句话贯穿了整个访谈，解释了 Nvidia 为什么不自己做云，不偏向某个赢家，也不搞竞价分配 GPU。\n\n而针对“AI 会不会让软件公司贬值”这个反直觉问题，老黄的观点恰好相反。他认为未来 AI 智能体的数量将指数级增长，这些智能体需要大量使用现有的软件工具，而过去这些工具只能由有限数量的人类工程师操作。\n\n他举了个生动的例子：芯片设计公司 Synopsys 的设计编译器（Design Compiler），未来的使用实例可能会爆炸式增长——因为 AI 智能体将成批地使用这些工具进行设计探索。这不仅不会淘汰软件公司，反而会带来史无前例的需求大爆发。\n\n老黄总结道：“今天智能体还不擅长使用这些工具，未来要么工具公司自己开发智能体，要么智能体自动变聪明，学会高效使用工具。这两个过程会同时发生。”\n\n![Image 4: AI 智能体使用软件工具的爆发式增长](https://s.baoyu.io/imgs/2026-04-17/02-infographic-agent-explosion.png)\n\n* * *\n\n## 【2】当供应链“布道者”：老黄如何推动整个产业链？\n\n访谈中，Dwarkesh 直接戳中了 Nvidia 看似牢不可破的护城河——他援引了最新财报里的千亿美元采购承诺，以及 SemiAnalysis 更高的 2500 亿美元估值，质疑 Nvidia 是不是靠“买空市场”卡住了竞争对手。\n\n老黄没否认这点，但强调事情没这么简单。**Nvidia 敢砸出这么多钱的根本原因，是下游需求足够大**，给了供应商十足信心去扩产：\n\n> “需求多 → 上游敢投 → 产能增 → 市场更大 → 需求更多”， 这是 Nvidia 背后真实运转的飞轮。\n\n但这飞轮并不是自动转起来的。老黄形容自己花了大量精力做供应链“布道者”，挨个儿向上下游 CEO 讲清楚 AI 大潮为什么会来、什么时候来、以及将有多大：\n\n> “我需要让他们看到我看到的未来。”\n\n他特意讲了与美光（Micron）CEO Sanjay Mehrotra 的关键对话，详细告诉对方为何 HBM（高带宽内存）市场马上会爆炸式增长。后来事实证明，**美光押注 HBM 和 LPDDR 是个极为成功的决策**。\n\n在更上游的光通信领域，Nvidia 直接牵头重塑了供应链：和台积电一起开发封装技术，创造新工艺，还主动把专利分享给合作伙伴，并直接投资帮他们扩大产能——最近对 Lumentum 的 **20 亿美元**投资，就是典型案例。\n\n老黄把 Nvidia 每年举办的 GTC 大会，定义为产业链上下游的集体“思想升级”：\n\n> “有人总跟我说『Jensen，你演讲有时像在上课』，但这正是我要做的事。我希望产业链上的所有人，都能像我一样清晰地看到 AI 即将到来的巨大机会。”\n\n![Image 5: Nvidia 供应链飞轮效应](https://s.baoyu.io/imgs/2026-04-17/03-flowchart-supply-chain-flywheel.png)\n\n* * *\n\n## 【3】产能瓶颈？不存在的\n\n访谈到这里，Dwarkesh 再次追问了一个尖锐问题：Nvidia 已经占据了台积电 3nm 产能的绝大部分，**2026 年甚至达到 60%，2027 年更要占到 86%**。在如此巨大的基数下，Nvidia 怎么可能再翻倍增长？\n\n老黄的回答异常乐观，他直截了当地表示：\n\n> “所有产能瓶颈最多持续两三年。一旦你能造一个，就能造一百万个。”\n\n任何时候，瞬时需求都会超越供应能力，瓶颈可能出在你完全想不到的环节，甚至可能是水管工人——“明年 GTC 我们还真邀请了水管工参加。”\n\n他以 CoWoS（台积电用来集成芯片和高带宽内存的先进封装技术）为例，两年前它还是 AI 芯片的最大瓶颈，Nvidia 花了大力气解决，现在产能已经翻了数倍。\n\n更重要的是，Nvidia 提前数年就开始主动预判瓶颈。比如硅光子（用光传输数据）领域，Nvidia 不仅亲自开发关键技术，还投资并与台积电及合作伙伴联手扩产，完全掌握供应链的主动权。\n\n但老黄强调，真正让他担忧的并非这些硬件瓶颈，而是下游能源政策：\n\n> “没能源，你什么产业都建不了，更别提再工业化美国了。芯片、电动车、机器人、AI 工厂，这些都吃能源，而能源问题可不是两三年就能解决的。”\n\n![Image 6: 短期瓶颈 vs 长期能源制约](https://s.baoyu.io/imgs/2026-04-17/04-comparison-bottleneck-vs-energy.png)\n\n* * *\n\n## 【4】GPU vs TPU：F1 赛车还是凯迪拉克？\n\n访谈到这里，Dwarkesh 又抛出了一个犀利的观点：世界上最强的两个 AI 模型——Claude 和 Gemini，都是用 Google 的 TPU 训练出来的。这是不是意味着 Nvidia 已经落后了？\n\n面对这个挑战，老黄迅速把讨论格局拉大：“Nvidia 做的不是『张量处理单元』，而是更广泛的『加速计算』。”除了 AI，Nvidia 的 GPU 还能覆盖分子动力学、流体力学、量子计算、数据处理等数十个领域。这种广泛的适用性，是专用芯片（ASIC）无论如何也追不上的。\n\n而且更关键的是，Nvidia 是云计算领域的通用基础设施，任何人都能操作，能跑在 Google、Amazon、Azure、OCI 等所有主流云平台上。但 TPU 和 Trainium 这些芯片就不同，只能被特定的云服务商使用。\n\nDwarkesh 显然对这个解释不买账。他代表一些 AI 研究者指出，TPU 本质上就是专门优化矩阵乘法的脉动阵列（systolic array），简单、高效，而 GPU 的通用性反而成了浪费：“做 AI 就是反复的矩阵计算，你非得弄个能做其他事情的 GPU，晶体管面积不是白瞎了吗？”\n\n对此，老黄坚决反驳：“矩阵乘法当然重要，但不是 AI 的全部。如果你想试试新的注意力机制、融合不同的模型架构，你就需要 GPU 这种通用计算平台。”\n\n然后他直接给出了数据——**新一代的 Blackwell 架构相比 Hopper 架构能效提高了整整 50 倍**：\n\n> “靠摩尔定律，每年最多提升 25%。但你要实现 10 倍甚至 100 倍的飞跃，唯一的方法就是不断改变算法和计算方式。”\n\n老黄特意提到，最初宣布 Blackwell 比 Hopper 能效高 35 倍时，没人相信。直到 SemiAnalysis 独立分析后，才发现**实际提升居然达到 50 倍**！而这一突破的背后，靠的不是制程升级，而是处理器架构、算法、分布式计算策略，以及 NVLink、Spectrum-X 等网络技术的全面创新。\n\n最后，老黄以一个生动的比喻结束：\n\n> “GPU 就像 F1 赛车，CPU 更像凯迪拉克。凯迪拉克人人都能开到时速 100 英里，但想把 F1 赛车推到极限，你必须拥有专业的驾驶技术。”\n\n而 Nvidia 自己就拥有这种专业的“驾驶技术”——用 AI 自动生成最优计算内核，帮客户轻松将性能提升 2 倍甚至更多。“考虑到现在 Hopper 和 Blackwell 在全球的装机量，这 2 倍的性能提升，直接等于客户收入翻倍。”\n\n![Image 7: GPU vs CPU：F1 赛车与凯迪拉克](https://s.baoyu.io/imgs/2026-04-17/05-comparison-f1-vs-cadillac.png)\n\n* * *\n\n## 【5】CUDA：生态便利还是技术锁定？\n\n访谈中 Dwarkesh 再次犀利提问：如果 Nvidia 60% 的收入都来自少数几个巨头客户，而这些客户完全有资源自己写内核，那 CUDA 到底还有多大优势？Anthropic 和 Google 已经开始主推自己的芯片，连依赖 Nvidia GPU 的 OpenAI 都开发了 Triton 框架，让内核编程不再依赖 CUDA。\n\n面对这个问题，老黄一口气给出了三个层面的答案：\n\n**第一，是生态的丰富程度。** CUDA 已经支持了几乎所有主流框架，从 OpenAI 的 Triton，到 vLLM、SGLang，再到最新的强化学习框架 Verl 和 NeMo RL。Nvidia 自己也积极参与 Triton 的底层开发，这意味着如果出了问题，你至少明确知道问题出在自己代码上，而不是无底洞般的底层实现。\n\n**第二，是庞大的装机规模。** “作为开发者，你最在乎什么？当然是用户装机量！” Nvidia 在全球拥有数亿块 GPU，从老旧的 A10 到最新的 Blackwell，横跨各个云平台、每个垂直领域。无论你是做云服务还是机器人，你都希望自己的代码随时随地能跑起来，而 CUDA 就能保证这一点。\n\n**第三，是跨云平台的自由。** Nvidia 是唯一一个能同时存在于 Google、Amazon、Azure 和 OCI 等所有主流云服务上的芯片公司。AI 公司无法确定自己未来会选哪家云服务，因此 Nvidia 能提供最大的灵活性和安全感。\n\n但 Dwarkesh 还是不依不饶：这些优势对那些顶级客户真的有那么重要吗？当 AI 越来越擅长自己写高效内核时，Nvidia 会不会变成单纯拼性能和价格的芯片商？到那个时候，Nvidia 还能维持超过 70% 的高毛利率吗？\n\n对此老黄非常自信地回应：“Nvidia 工程师优化的不只是内核，而是客户整个技术栈。”\n\n他说，没有人比 Nvidia 自己更懂 Nvidia 的架构，“我们的每瓦性能和总拥有成本（TCO）都是全球最好的，没有例外。”\n\n他甚至公开喊话 TPU 和 Trainium 等竞争对手：“我鼓励他们站出来，用 Inference Max 这种公认的基准测试证明自己的推理性能。但现实是，他们根本不敢来。”\n\n最后，老黄指出了一个容易被忽视的重要细节： 虽然 Nvidia 60% 的收入确实来自几家超大型云厂商，但这些 GPU 大部分最终服务于外部客户。云厂商愿意大规模采购 Nvidia，是因为 Nvidia 本身带来了最多的客户。这才是 Nvidia 真正的生态护城河。\n\n![Image 8: CUDA 生态三层护城河](https://s.baoyu.io/imgs/2026-04-17/06-framework-cuda-ecosystem.png)\n\n* * *\n\n## 【6】Anthropic 的芯片选择：老黄承认了一个错误\n\n访谈最有意思的地方，莫过于老黄公开解释 Anthropic 为什么大量使用 Google 的 TPU 和 Amazon 的 Trainium。\n\nDwarkesh 提到了 Anthropic 刚宣布的与 Google 和 Broadcom 总计 3.5GW 算力规模的 TPU 交易，尖锐地问道：“如果 Nvidia 性价比真的全球第一，Anthropic 为什么还要选别家的？”\n\n对此，老黄的回应非常直接：“Anthropic 是一个特例，不是趋势。”\n\n他甚至夸张地表示：\n\n> “没有 Anthropic，TPU 哪来的增长？100% 是靠 Anthropic。没有 Anthropic，Trainium 的增长从哪来？还是 Anthropic。”\n\n虽然现实情况并没有老黄说得这么绝对，但他的核心意思其实很明确——在 Nvidia 所有的重要客户中，只有 Anthropic 明显地偏向了其他芯片生态。\n\n更有意思的是，接下来老黄主动承认了自己过去的一个重大失误：\n\n> “很久以前，我们确实没能力这么做。我低估了建立一家像 OpenAI 或 Anthropic 这样的大模型实验室有多难，也低估了它们对供应商巨额资金支持的需求。当时 Nvidia 根本拿不出 50 亿、100 亿美元给 Anthropic，但 Google 和 AWS 能做到。”\n\n他直言不讳地说：\n\n> “我们的失误导致 Anthropic 不得不去找别人。但即使这样，我仍然为 Anthropic 的存在感到高兴——Anthropic 对世界是有益的。”\n\n后来老黄痛定思痛，决心不再犯同样的错误，因此 Nvidia 后续大手笔投资了 OpenAI（**300 亿美元**）和 Anthropic（**100 亿美元**）。\n\n关于 Nvidia 为什么不自己做云服务，老黄再次强调了他核心的经营哲学：\n\n> “如果我们不冒险打造计算平台，真的就没人做了。如果没有 NVLink、CUDA 和整个生态的搭建与投入，AI 产业根本不会有今天的繁荣。但云服务不同，世界上有很多人能做。我们不做，自然会有人去做。”\n\n他强调 Nvidia 不会亲自做融资业务，因为“融资业务市场上已经有很多人在做了，我们宁愿跟所有做融资的人合作。”\n\n至于为什么 Nvidia 从来不去押注某个赢家，老黄回忆起创业时的教训：“我们刚起步的时候，全行业有 60 家 3D 图形公司。要是那时候投票选谁最可能失败，我们绝对排第一，因为我们的架构方向根本就是错的。”\n\n最后老黄总结道：\n\n> “我足够谦逊地知道，不要去挑选赢家。要么大家自己想办法活下去，要么我们干脆照顾好所有人。”\n\n![Image 9: Anthropic 被迫选择的芯片之路](https://s.baoyu.io/imgs/2026-04-17/07-flowchart-anthropic-chip-choice.png)\n\n* * *\n\n## 【7】GPU 定价哲学：不涨价、不竞标的理由\n\n访谈中，Dwarkesh 又抛出了一个让人直觉上觉得“这才合理”的问题：“GPU 紧缺时，为什么不直接卖给出价最高的人？”\n\n对此老黄给出了一个出人意料但底气十足的回答：\n\n> “我们从来不做竞价分配 GPU 的事。这不是 Nvidia 的风格，我们只负责定好一个合理的价格，客户自己决定买不买。”\n\n老黄强调，即使市场火爆到爆炸，他们也绝不会趁机涨价：“其他芯片公司可能会，但我们绝不。我们想做整个行业可信赖的基石，让客户永远不需要猜测或担心我们会不会趁机割韭菜。”\n\n他甚至顺带辟了个谣：“坊间传闻 Larry Ellison 和 Elon Musk 曾经在一次晚餐上苦苦求我分 GPU 给他们，这事确实有，但他们根本不用求，只要下订单就可以了。”\n\n更让人吃惊的是，老黄透露 **Nvidia 与台积电近 30 年的合作，从来没签过正式法律合同**：\n\n> “我们之间一直存在一种默契，有时候我占点便宜，有时候吃点亏，但总体上公平。我可以完全信任他们、依赖他们。”\n\n最后，他点出了 Nvidia 的另一个优势——超强的可预测性：\n\n“今年我们交付 Vera Rubin 架构，明年是 Vera Rubin Ultra，后年是 Feynman，再下一年还有未公布的新架构。”\n\n他带着骄傲地总结道：\n\n> “你放眼全球，有哪家 ASIC 团队敢拍胸脯承诺：每年稳定推出新架构、每年 Token 成本持续下降一个数量级？只有 Nvidia 能做到，我们像钟表一样准时可靠。”\n\n![Image 10: Nvidia 定价哲学：不涨价、不竞标、可预测](https://s.baoyu.io/imgs/2026-04-17/08-infographic-pricing-philosophy.png)\n\n* * *\n\n## 【8】对华出口管制：老黄全场最激烈的交锋\n\n访谈进行到中段时，Dwarkesh 开启了本场最激烈的 20 分钟辩论。他直言，自己习惯当“魔鬼代言人”——此前他曾挑战过支持出口管制的 Dario Amodei，现在面对反对管制的老黄，他反过来问了同样尖锐的问题：\n\n> “如果中国企业和政府拥有了训练出类似 Anthropic Claude Mythos 这种顶级模型的 AI 芯片，会不会威胁美国国家安全？”\n\nClaude Mythos 近期刚发布，就已发现了数千个零日漏洞，甚至能在主流操作系统和浏览器中自主发掘高危漏洞。正因如此，Anthropic 不敢公开发布，只限量提供给 Google、微软等机构修补漏洞。\n\n对此老黄迅速而坚定地反驳：“Mythos 训练所需的算力其实并不特殊，在中国早已普遍存在。他们有世界 60% 以上的芯片产能，拥有最顶尖的计算机科学家，全球 50% 的 AI 研究者也都来自中国。”\n\n他更犀利地提出：“如果你真担心中国，用最糟糕的方式——把他们变成受害者、敌人，肯定不是好主意。”\n\n老黄指出，现在美中最大的缺失，是 AI 研究者之间的真正对话。他认为双方应该公开、直接地讨论，明确 AI 哪些领域不能涉及。\n\nDwarkesh 不认同老黄的观点。他强调，中国虽然芯片多，但先进算力只有美国的十分之一，因为中国的制程还卡在 7nm，没有 EUV 设备。这意味着美国有一个宝贵的窗口期，可以比中国更快达到 Mythos 的级别，并提前堵上漏洞。\n\n老黄却一针见血地指出了被忽略的现实：\n\n> “中国拥有的免费能源实在太惊人了。AI 就是一个巨大的并行计算问题，如果中国芯片算力不够先进，他们完全可以用大量便宜芯片和几乎免费的电力拼成超算。他们甚至有空置的鬼城、鬼数据中心，可以迅速规模化部署。”\n\n他进一步补充道：“7nm 芯片其实就是我们过去的 Hopper 芯片，而全球绝大部分先进 AI 模型，就是用 Hopper 训练出来的。华为去年更是创下了史上最大规模的单年芯片出货量。”\n\n在老黄看来，出口管制只会促使中国更快走向芯片自主，而美国则将因此白白放弃全球第二大的科技市场。\n\nDwarkesh 试图用“内存带宽”问题继续施压，但老黄干脆回应：“华为本质上是一家网络公司，他们完全有能力通过先进的互联技术，把大量普通芯片串联成超级计算机。他们甚至已经展示过用硅光子技术把低端芯片变成巨型超算的能力。”\n\n随后，老黄抛出了访谈中最具争议的一句话：\n\n> “如果未来 DeepSeek 这样的顶尖模型，首发选在华为芯片上，那对美国来说将是灾难。”\n\n他的逻辑非常清晰：如果开源 AI 模型被优化到非美国的技术栈上，当这些模型传播到全球南方、中东和东南亚地区时，美国的技术标准和硬件生态将不再有竞争力，美国将丢掉全球 AI 技术主导权。\n\nDwarkesh 随即反驳道：“Anthropic 的模型同时能跑在 GPU、TPU 和 Trainium 上，这种跨平台兼容性不会轻易消失。”\n\n老黄不以为然：“你试试看，把一个为 Nvidia 优化的模型搬到其他平台上去，性能会怎么样？Nvidia 的成功就是最佳证明。AI 模型在我们的技术栈上被创造，也在我们的技术栈上达到最好效果，这点毫无疑问。”\n\n接下来，Dwarkesh 引用了 Dario Amodei 曾在达沃斯论坛上的尖锐比喻：“Nvidia 卖芯片给中国，就像波音自豪地说，朝鲜的核武器导弹外壳是波音造的，所以这是支持美国技术生态。”\n\n这句话立刻激怒了老黄，他强烈回击：\n\n> “你把 AI 和你刚刚提到的任何东西比较，简直是荒谬透顶。”\n\nDwarkesh 仍不罢休：“但如果他们的芯片可以跑出攻击所有美国软件的 AI 模型，这难道不算武器？”\n\n老黄冷静地指出：“真正解决之道，是美中通过沟通达成明确共识，确保所有国家都不滥用 AI 技术。更何况，中国是全球最大开源贡献者，AI 安全依赖于全球开源生态。我们不能掐死它。”\n\nDwarkesh 抓住老黄逻辑上的微妙矛盾追问：“你一边说 Nvidia 芯片最强，在中国市场一定能赢；一边又说，就算不卖芯片，中国照样可以做到一样的事。”\n\n老黄强调，这两点并不矛盾：“如果市场上有更好的芯片，自然选更好的。如果没有，也能用已有的方案，这完全合乎逻辑。”\n\n辩论到最后，双方立场都非常鲜明：\n\n老黄坚持，AI 技术像一块“五层蛋糕”，每一层都必须竞争并取胜。牺牲芯片层（也就是不卖芯片给中国）来防止他们训练出高端模型，是一种极端且短视的做法。他举了美国电信行业的例子：过去严格的出口管制曾让美国公司彻底丢掉全球电信市场，最终让美国“不再控制自己的电信产业”。\n\nDwarkesh 激烈地质问老黄，这种说法是不是一种“输家心态”。老黄当场火力全开：\n\n> “你面前这个人，不是早上醒来准备输的人。这种输家的态度、输家的假设，对我来说毫无意义。”\n\n最后，老黄平静地总结了自己的核心观点：\n\n> “没有人说要么全部开放、要么全封闭。美国必须永远领先，拥有最好的技术。但同时我们也应该积极参与全球竞争并赢下市场。这两件事是完全能同时做到的。世界从来不是非黑即白的。”\n\n![Image 11: 对华出口管制：老黄 vs Dwarkesh 的激烈交锋](https://s.baoyu.io/imgs/2026-04-17/09-comparison-export-debate.png)\n\n* * *\n\n## 【9】收购 Groq 背后：推理市场进入分层时代\n\n访谈最后阶段，Dwarkesh 将话题从敏感的地缘政治拉回到技术上，问老黄：“Nvidia 为什么不尝试不同的芯片架构？比如 Cerebras 那种晶圆级芯片，或者像 Dojo 那样的大封装结构，甚至推出完全不依赖 CUDA 的版本？”\n\n老黄简单又直接地回应：“我们当然能做，但事实证明这些架构并没有更好。它们早就在我们的模拟器里反复验证过了，效果都不如现在的方案。”\n\n不过他承认，Nvidia 最近的确在推理芯片领域迈出了新的一步——高价收购了 Groq。\n\n但老黄强调，收购 Groq 并非因为 GPU 架构不够优秀，而是因为推理市场本身出现了重大变化：\n\n> “几年前，推理产生的 Token 基本不值钱，甚至可以说免费。但现在不同客户对 Token 的要求不同，他们愿意为更快的响应速度支付更高的价格。”\n\n他举了自家软件工程师的例子：“如果我们能给工程师提供更快响应的 Token，让他们的生产力翻倍，我们当然愿意为此额外付费。”这就是所谓的“高端推理市场”，过去并不存在，但如今正在快速形成。\n\n老黄继续解释：“我们现在已经进入了一个『推理分层时代』。同一个模型可以根据响应速度不同来定价，这意味着吞吐量高不再是唯一标准。更快的响应速度，即使整体吞吐量低一些，也可能获得更高的平均售价（ASP）。”\n\n对于是否会考虑回到旧制程（比如 7nm）来缓解芯片供应压力的问题，老黄果断表示不太可能：\n\n> “理论上可以这么做，但经济上完全不划算。我们能承担得起向前发展，但负担不起向后退步。每一代新架构的进步，不仅仅是制程，还有封装、堆叠技术、数值精度和整体系统架构的革新。除非有一天真的再也无法提高产能，否则我们绝不会往回走。”\n\n![Image 12: 推理市场分层时代](https://s.baoyu.io/imgs/2026-04-17/10-infographic-inference-tiers.png)\n\n* * *\n\n## 【10】假如 AI 革命从未发生，Nvidia 还会做什么？\n\n访谈的尾声，Dwarkesh 提出了一个假设性的、稍显哲学的问题：“如果深度学习革命从来没有发生，今天的 Nvidia 会做什么？”\n\n老黄没有犹豫，干脆地回答：“我们还是会做加速计算，这本来就是 Nvidia 一直在做的事。”他强调，通用计算的时代已经走到了尽头，计算世界转向加速计算的趋势和 AI 并不必然相关。\n\n> “即使 AI 不存在，Nvidia 依然会是一家非常大的公司。”\n\n他说，即便没有 AI，计算光刻、量子化学、数据处理和图像生成等领域，依旧需要强大的加速计算能力。他提到 GTC 大会上有很大一部分话题并非围绕 AI 展开，但依然对产业至关重要。\n\n> “张量计算不是计算的全部。我们希望能帮助所有计算领域。”\n\n但老黄最后也坦率承认了自己内心深处的一点小情绪：“但如果世界上真的没有 AI，我会感到非常伤心。”\n\n![Image 13: 假如 AI 革命未发生：加速计算的广泛领域](https://s.baoyu.io/imgs/2026-04-17/11-infographic-accelerated-computing.png)\n\n* * *\n\n## 最后的快问快答\n\n**Q：Nvidia 会不会变成商品化公司？** Jensen：不会。因为从电子到 Token 的转化本身非常复杂，工程和科学问题还远未被理解透彻。AI 智能体的爆发还会为软件工具带来巨大的需求增长。\n\n**Q：CUDA 最大的价值到底是什么？** Jensen：不是技术锁定，而是全球数亿块 GPU 的装机量、极其丰富的生态系统，以及跨每一家云平台的便捷性。此外，Nvidia 的工程师还能帮客户轻松实现 2-3 倍的性能提升。\n\n**Q：Anthropic 为什么选择 TPU 而不是 GPU？** Jensen：因为 Nvidia 早年缺乏财务能力，没有及时投资 Anthropic，导致他们不得不依靠 Google 和 AWS 的芯片生态。这是一个特例，而不是长期趋势。\n\n**Q：Nvidia 应不应该向中国出售 AI 芯片？** Jensen：应该。中国已经有了充足的 7nm 芯片产能和丰富的能源，出口限制只会加速中国自主生态的建立。美国需要在所有技术层面积极竞争，而不是通过牺牲市场来“赢”。\n\n**Q：Nvidia 为什么自己不做云服务？** Jensen：“因为如果我们不做，总有人会做。”Nvidia 的哲学是只做那些如果我们不做，就没人能做的事情。而云基础设施显然不属于这一类。\n\n* * *\n\n## 老黄的自相矛盾与现实考验\n\n![Image 14: 老黄的四大矛盾与现实考验](https://s.baoyu.io/imgs/2026-04-17/12-framework-contradictions.png)\n\n这场近两个小时的访谈，呈现出了几个值得持续关注的矛盾与悬念。\n\n首先，老黄所谓“尽可能少做事”的哲学，在现实中早已偏离了字面含义。投入 300 亿美元给 OpenAI，100 亿美元给 Anthropic，花 200 亿美元收购 Groq，又扶持 CoreWeave 等新兴云服务商……Nvidia 的触手实际上早已深入 AI 产业链的每一个环节。如今看来，这个原则更像是一种事后美化的叙事，而非真正约束行动的法则。\n\n其次，“Anthropic 是特例”这一论断，能否扛住现实的检验也充满悬念。Anthropic 在过去一年与 Broadcom 和 Google 的 TPU 合作规模翻了数倍（从 1GW 增至 3.5GW），与此同时 OpenAI 也开始发展自己的 Triton 框架并和 AMD 合作。如果未来出现更多这样的“特例”，那么老黄的说法基础势必动摇。\n\n再来看最敏感的对华出口话题。整场辩论下来，老黄始终没有直面回答一个最关键的问题：“他到底愿意接受什么程度的出口限制？”他反复强调不应该限制出口，又同时表示美国必须永远领先。一旦这两种立场发生冲突，究竟哪个更重要？他没有给出明确答案。他举出的“美国电信产业失败”的案例虽有启发性，但这种类比是否能完全适用于 AI 芯片这种显著的双重用途技术，仍有待商榷。\n\n而在商业策略上，老黄一再强调 Nvidia 作为“行业基石”绝不涨价、不搞竞价分配 GPU，能精准预测每年发布新架构。但这个承诺的可信度，很大程度上依赖于 Nvidia 目前超过 70% 的超高毛利率。当竞争真正来临时，Nvidia 是否还能如此慷慨与淡定？\n\n接下来 Vera Rubin 架构的实际量产进度与性能表现、Groq 3 LPX 在真实推理任务中的表现，以及中国自研芯片在未来几个月的真实部署规模，都将是检验老黄此次访谈诸多观点的最佳指标。\n\n完整访谈视频：[Dwarkesh Patel Podcast](https://www.youtube.com/watch?v=Hrbq66XqtCo)\n\n* * *\n\n[See all posts](https://baoyu.io/translations)\n\nBuilt by[宝玉](https://twitter.com/dotey). [RSS](https://baoyu.io/feed.xml) . 本站原创内容，独家授权赛博禅心公众号发布。\n\nToggle theme"
+    },
+    {
+      "source": "blog",
+      "name": "宝玉的工程技术分享",
+      "title": "设计圈的 Claude Code 时刻来了",
+      "url": "https://baoyu.io/blog/2026-04-17/claude-design",
+      "publishedAt": "2026-04-17T00:00:00.000Z",
+      "author": "宝玉",
+      "description": "Claude Design 实测：3 轮对话产出可交互原型，设计工具的游戏规则正在改写。",
+      "content": "# 设计圈的 Claude Code 时刻来了 | 宝玉的分享\n\n[宝玉的分享](https://baoyu.io/)[博客](https://baoyu.io/blog)[翻译](https://baoyu.io/translations)Menu\n\n[See all posts](https://baoyu.io/translations)\n\nPublished on 2026-04-17\n\n# 设计圈的 Claude Code 时刻来了\n\n作者：\n\n宝玉\n\n![Image 1: 设计圈的 Claude Code 时刻来了](https://s.baoyu.io/imgs/2026-04-17/claude-design/cover.webp)\n\nAnthropic 今天发布了 Claude Design，第一时间体验了一下，**震惊程度不亚于当年第一次用 Claude Code 写代码**。借用 flypig 老师一句话：\n\n> 刚才用了一下，这么说：Claude Design 让 Google 那个 Stitch 看起来像个笑话。\n\n**这就是设计领域的 Claude Code 时刻。** 我不会说“设计已死”、“设计师要被替代了”之类哗众取宠的话，只是想说：\n\n> 从想法到高保真交互原型的差距已基本消失，非设计师终于能独立产出可交付设计；设计师生产力指数级提升，但设计外包和传统设计工具要大幅缩水了。\n\n今天 Figma 股价大跌也侧面印证了这一点。\n\n## 先看我的实测案例\n\n给大家看一个完整案例，这是我大约 **3 轮交互**做出来的一个设计作品，不是简单的一个静态图片或者网页，里面的链接大部分可以点击交互。\n\n![Image 2](https://s.baoyu.io/imgs/2026-04-17/claude-design/Image_2026-04-17_174144_668.webp)\n\n初始提示词很简陋：\n\n> 帮我设计一个 writing agent 的 Mac App 支持多 workspace，可以看到 workspace 的文档（markdown、文本文档），可以对文档进行手动编辑，也可以调用 agent 编辑 markdown 文档 也可以在聊天对话中创建/编辑文档\n\n主要是我还没想好做成个啥样，期待着它帮我想想，所以说得比较模糊。\n\n然后它给了我一些问题让我选择，有单选有多选，还可以自己输入，或者让它自行决定。\n\n![Image 3](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_12-57-14.webp)\n\n过了一会去看，**它给了我 3 个方案让我选择**，就像一个专业的设计师，先跟你确认清楚需求，然后给几个不同方向让你挑。\n\n![Image 4](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_17-50-10.webp)\n\n![Image 5](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_13-41-49.webp)\n\n![Image 6](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_13-42-16.webp)\n\n![Image 7](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_13-42-27.webp)\n\n![Image 8](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_13-42-44.webp)\n\n![Image 9](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_13-42-59.webp)\n\n每个结果都不是静态图片或者静态网页，**都是可以点击交互的**。\n\n看完我觉得方案 2 和方案 3 都不错，但都有问题，需要综合一下。于是给了一些修改意见，还把 Codex 的截图发给它参考，让它把方案 2 和方案 3 综合一下，再结合 Codex 的一些设计。\n\n**它很快给了我一个新版本，基本上就是我想要但是描述不清楚的那种。** 比如它把 Documents 和 Chat 用一个 Tab 分开，就是我喜欢的设计，比我预想的“一上一下”更好。\n\n![Image 10](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_14-04-59.webp)\n\n整体设计我挺满意，也提不出更好的要求，接下来就是抠细节。文档编辑历史它没实现，我就让它补这块。\n\n提示词很简单：\n\n> 帮我基于当前设计，设计 history 部分，希望用户能更方便的看文档编辑历史，对比差异\n\n很快它就出了一版，但是打开一看，效果不行。\n\n![Image 11](https://s.baoyu.io/imgs/2026-04-17/claude-design/Image_2026-04-17_180111_336.webp)\n\n**我正准备提示它改，结果发现它自己检测出了布局问题，自己修复了。**\n\n修复后的版本就很好看了，没有布局问题，甚至还能方便地选择任意两个版本比较变更。\n\n![Image 12](https://s.baoyu.io/imgs/2026-04-17/claude-design/Image_2026-04-17_174151_004.webp)\n\n![Image 13](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_18-09-23.webp)\n\n从左边的消息历史看，它有自动纠错机制。\n\n![Image 14](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_18-02-29.webp)\n\n最终产出物是 React 代码和样式表。\n\n![Image 15](https://s.baoyu.io/imgs/2026-04-17/claude-design/Snipaste_2026-04-17_19-00-54.webp)\n\n整个过程让我很意外的几件事：**它会主动问需求、它会给多方案、它能理解多图混合参考、它能自检自纠、它输出的是可运行代码而不是静态稿**。这套协作模式，和之前任何一个设计工具都不一样。\n\n## Claude Design 到底是个什么东西\n\n先说基础信息。Claude Design 是 Anthropic Labs 今天发布的新产品，由 **Claude Opus 4.7** 驱动，Pro、Max、Team、Enterprise 订阅都能用（Enterprise 默认关，需要管理员开），直接去 claude.ai/design 就能进。\n\n**界面很简单：左边聊天，右边画布。** 你描述想要什么，它在右边画出来；你用聊天、行内评论、直接编辑、或者它自动生成的调节滑杆去改；改完之后可以导出成 HTML、PDF、PPTX、ZIP，或者送进 Canva 继续编辑，或者直接打包给 Claude Code 去落地成产品代码。\n\n看起来好像就是个 AI 版 Figma？并不是。\n\nRyan Mather 是 Anthropic 自己设计团队的人，一个人同时负责 7 个产品线。他今天发的推文里面说了一条很关键的话：\n\n> 不要用对待画布工具的方式来用 Claude Design。它是另一种动物，有自己的超能力。老实说它更像 Claude Code，而不是像画布式的设计工具。 [https://x.com/Flomerboy/status/2045162328593670321](https://x.com/Flomerboy/status/2045162328593670321)\n\n**这句话是理解 Claude Design 的钥匙。**\n\n![Image 16](https://s.baoyu.io/imgs/2026-04-17/claude-design/Image_20260417195258_7.webp)\n\n## 和 Figma、Canva 们的根本不同\n\n过去一年，Figma 加了 AI、Adobe 加了 AI、Canva 也加了 AI。它们的逻辑都是一样的：**在以人为主的画布工具上，加一层 AI 插件**，帮你画得更快一点、写文案方便一点。\n\nClaude Design 走的是另一条路：**AI 是主要的生成者，人是主要的审阅者**。整套工具的骨架就是围绕这个假设搭的。\n\n这个区别听起来抽象，落到产品上有几个很具体的差异。\n\n### 输出是可运行代码，不是静态设计稿\n\n我上面那个 Mac App 案例，最终拿到的是 React + CSS，是一个能跑的东西，链接可以点、标签可以切、版本可以 diff。这和“生成一张漂亮的 UI 图”是两个物种。\n\n### 组织级设计系统\n\n你上传代码库、PPT、品牌资料之后，它会抽出颜色、字体、组件、布局规范，后面所有项目都自动套用。Brilliant 的设计师反馈说，以前在别的工具里需要 **20 多轮提示才能搞定的复杂交互，在 Claude Design 里 2 轮就搞定**，原因就是它已经“认识”你的设计语言。\n\n### 理解你的代码库\n\n不是把代码当截图看，是**真的读组件结构、框架模式、文件组织**。所以设计师做完之后点一下 handoff，工程师那边拿到的不是“这是一张图你去还原”，而是“这是一组可以直接接到你现有组件库里的实现草案”。\n\n### 会做工具，不只是做设计\n\n官方博客里提到一个能力：你可以让 Claude Design **临时给你生成一个专门的工具**，比如一个针对你品牌色盘的拾色器、一个自定义的 spec 生成器、一个小的交互原型测试工具。产出不局限于“设计文件”，而是“任何帮你把问题想清楚的计算产物”。\n\n* * *\n\nDatadog 的反馈也有意思：以前需要一周、跨多轮 brief → mockup → review 才能完成的事，现在在一次会议里就能边聊边做出成型原型，甚至让工程师现场参与到设计对话里。\n\n**这不像“Figma 提速 30%”那种优化。更像另一种工作方式。**\n\n## 能拿来做什么\n\n从官方博客和目前披露的使用场景看，Claude Design 至少能覆盖这几类工作：\n\n**产品原型和交互流程。** 比如我的 Mac App 案例，或者 5 屏 onboarding 流程、带筛选和详情抽屉的搜索体验、审批工作流队列。这是它最强的一块。\n\n**演示文稿。** 10 页 Q1 结果 Deck、15 页董事会 roadmap、客户会前材料、全员会 Deck。导出 PPTX 直接可用，也可以送去 Canva 继续编辑。\n\n**营销物料。** 落地页、社媒图、活动视觉。\n\n**内部工具后台。** 管理面板、内容审核队列、权限管理界面。这一类过去专门养一个前端岗来做，现在 PM 自己就能出可交付原型。\n\n**设计探索。** 一次性出 3 到 5 个方向，让你挑。以前这是“我时间不够所以只能做两版给你看”，现在是“我出五版，你挑一版再精修”。\n\n还有官方没重点讲但其实很重要的：**视频 demo**。Ryan Mather 提到它能直接生成视频形态的演示，不只是静态图。这对产品发布、用户测试、投资人沟通是新的能力位。\n\n一句话概括使用边界：**结构清晰、信息块明确、交互逻辑可描述的东西，它都做得不错；模糊情绪导向的纯艺术创作，它不是来抢这个饭碗的。**\n\n## 这事不止关于设计\n\nRyan Mather 一个人服务 7 个产品，这是一个信号。这事放在两个月之前是不可能的。\n\n### 对设计师\n\n生产力会指数级提升，但团队规模大概率会缩。过去一家公司需要 5 个设计师的活儿，现在 1 到 2 个就能做完，而且单人产出反而更多、更好。**留下来的人会更值钱，因为他们做的是真正吃判断力的工作**：品牌方向、关键插画、命名、战略级决策。剩下 80% 的执行工作，模型接走了。\n\n### 同样的剧本，已经演过了\n\n编程圈是 Claude Code，能用好 AI 的工程师产出翻几倍，跟不上的慢慢被挤出来；分析圈是各种 AI 辅助数据分析，分析师从“写 SQL 的”变成“和 AI 一起提问题的”。每一次轮到新的专业，走的都是同一条轨迹：**人均产出飙升，头部的人拿得更多，尾部的人看着机会一点点消失**。设计圈刚好走到这个拐点。\n\n### 对 PM、创始人、营销人员\n\n这是一个完全新的能力。以前你有想法，要么画个草图找设计师排队，要么忍着自己做个丑到抑郁的 PPT。现在你描述清楚想法，**它给你一个可以直接拿去给工程师、给投资人、给客户的成品**。\n\n### 对 Figma、Adobe、Canva\n\n这是警钟，但股价跌 10% 可能只反映了表层冲击。Ryan Mather 那条推里还有一层更深的信号：**Anthropic 自己的设计团队已经把 Claude Design 当主力工具用，Figma 只是偶尔才会被提到**。如果 Anthropic 的设计师已经不主要用 Figma，别的科技公司凭什么还主要用？再过 2 到 3 个季度，当企业年度预算开始重新整合设计工具开销，老牌工具的续费数字会比股价给出更直接的答案。\n\n### 对公司决策层\n\n有两件事要重新算账。一件是**设计岗位的编制**。Mather 一个人覆盖 7 个产品线，背后的参照线是原本需要 3 到 5 个设计师的工作量；放到年度预算表里，这个数字很难不被问到。另一件是**工具订阅成本**。当主力工作能在一个产品里基本完成，那些原本分散在 Figma、Sketch、Notion、Miro、Keynote 上的账号就会被拿出来重新评估。\n\n### 对工程师\n\n这是久违的好消息。设计到工程的交接一直是最痛苦的环节之一：设计师按视觉做，工程师按代码做，中间全靠 Figma 标注和来回 review。现在从 Claude Design 出来的东西**本身就带着组件结构和实现草案，落地成本直接降一个量级**。\n\n## 其他\n\nClaude Design 目前还是 research preview，有一些现实边界需要清楚：\n\n它还没有审计日志和用量追踪，不支持数据驻留，上传的资产会被持久存储。如果你在一家对合规要求很严的公司，**短期内最好不要把最高敏感度的设计素材直接放进去**。\n\n它目前只有网页界面，没有开放 API。你想把它嵌到自己产品里，目前还不行，只能基于 Claude API 和 Agent SDK 自建类似能力。但 Claude Design 能力这么强，最关键的是 Opus 4.7 模型在多模态能力上的增强，理论上来说你用 Opus 4.7 也能搭出来类似的产品。\n\n但是和 Claude Code 一样，虽然同样用 Claude 的模型，但是 Claude Code 在很多方面就是能表现更好，毕竟 Anthropic 他们自家才知道怎么最大化的利用好新的模型，以及他们还能反过来，**根据用户使用的设计数据和交互，去训练下一代的模型，形成数据飞轮**。\n\n这个优势短期内其他家比如 OpenAI 和 Gemini，还无法很快追上。\n\n### 价格与额度\n\n| 计划类型 | 官方定位 | 额度说明 | 超额方式 | 明确价格数字 |\n| --- | --- | --- | --- | --- |\n| Pro | 轻量探索、一次性使用 | 每 7 天重置的 weekly allowance | 可购买 extra usage | allowance 具体数值未说明 |\n| Max 5x | PM / 工程师较规律产出 mockup | 每 7 天重置 | 可购买 extra usage | allowance 具体数值未说明 |\n| Max 20x | 设计师、创意高频使用 | 每 7 天重置 | 可购买 extra usage | allowance 具体数值未说明 |\n| Team Standard | 一次性探索 | 每个 provisioned user 各自拥有 weekly allowance | 管理员可购 extra usage | allowance 具体数值未说明 |\n| Team Premium | 设计/创意重度用户 | 每个 provisioned user 各自拥有 weekly allowance | 管理员可购 extra usage | allowance 具体数值未说明 |\n| Enterprise 传统 seat-based Standard/Premium | PM / 工程师 / 设计重度用户 | 每用户独享 allowance | 管理员可购 extra usage | allowance 具体数值未说明 |\n| Enterprise usage-based | 走 API 合同计费 | 不走 seat allowance；按标准 API 费率计 | 直接计入组织 spend | **有一次性 credit，约覆盖 20 个典型 prompts，2026-07-17 到期** |\n\n这张表基于 Anthropic 官方 Claude Design 定价文档整理；官方**没有公开 weekly allowance 的具体数值**，所以这些格子必须标记为“未说明”。\n\n我自己是 Claude Max@5x，就设计了一个 App 和生成了一个 Slides，一周的额度就没了。\n\n### 模型、规格与多模态能力\n\n**Claude Design 当前唯一明确公开的底层模型是 Claude Opus 4.7。** 官方没有说明用户是否可以在 Claude Design 中切换到 Sonnet 或 Haiku，因此这一项应视为未说明 / 大概率固定。与此同时，Anthropic 的模型总览页面给出了当前主力模型的对比，便于理解 Claude Design 选型背后的原因。\n\n| 模型 | Claude API ID | 价格 | 上下文窗口 | 最大同步输出 | 视觉/多模态 | 速度 | 对 Claude Design 的关系 |\n| --- | --- | ---: | ---: | ---: | --- | --- | --- |\n| Opus 4.7 | `claude-opus-4-7` | $5 / 输入 MTok；$25 / 输出 MTok | 1M tokens | 128k | 文本 + 图像输入；高分辨率图像支持 | Moderate | **Claude Design 已确认采用** |\n| Sonnet 4.6 | `claude-sonnet-4-6` | $3 / 输入 MTok；$15 / 输出 MTok | 1M tokens | 64k | 文本 + 图像输入 | Fast | 可用于类 Claude Design 自建方案 |\n| Haiku 4.5 | `claude-haiku-4-5-20251001` | $1 / 输入 MTok；$5 / 输出 MTok | 200k tokens | 64k | 文本 + 图像输入 | Fastest | 适合轻量、低成本辅助任务 |\n\n上表数据由 Anthropic 模型总览汇总；其中“Claude Design 采用关系”来自 Claude Design 官方博客。\n\n在视觉规格上，**Opus 4.7 是首个支持高分辨率图像的 Claude 模型**，最大原生分辨率可达**长边 2576 像素**，单图最高约 **4784 图像 token**。这对 Claude Design 尤其重要，因为它大量依赖截图、网页捕获、原型对照和文档视觉语义。与此同时，Opus 4.7 使用新 tokenizer，处理相同文本时 token 可能比 Opus 4.6 高出约 **1x–1.35x**，这意味着在图像/代码/长上下文场景里，开发者必须重新估算 `max_tokens`、缓存与成本。\n\n## 最后\n\nClaude Design 带来的冲击，不只是设计圈的一次效率升级，更像一场深刻的范式转变。过去，设计师们习惯于在画布上精雕细琢、手动标注；现在，AI 已经可以直接从想法到可运行的高保真交互原型，让设计师的角色从纯粹的执行者向战略性的决策者转变。这种变化不只发生在设计领域，程序员、分析师、营销人员、产品经理，都已经或者即将经历类似的革命。\n\n在这样一个时代里，真正被重新定义的不仅是我们的工作方式，还有我们对生产力和创造力的理解。AI 不会取代人类对美的判断、对品牌的洞察、对战略的规划，但它的到来却让每个人都有机会更加专注于这些最具价值的能力。\n\n也许几年后，我们会回头看今天的 Claude Design，就像今天我们看待第一次使用 Claude Code 那样，发现历史的分水岭就在不经意间发生了——而我们刚刚走进了那个全新的未来。\n\n* * *\n\n[See all posts](https://baoyu.io/translations)\n\nBuilt by[宝玉](https://twitter.com/dotey). [RSS](https://baoyu.io/feed.xml) . 本站原创内容，独家授权赛博禅心公众号发布。\n\nToggle theme"
+    }
+  ]
+}
